@@ -1,0 +1,35 @@
+FIFA PLAYER PERFORMANCE SLM - OLLAMA COMMANDS
+================================================
+
+These commands use Ollama with llama3.2:3b.
+
+1. Check Ollama:
+   ollama --version
+
+2. Download the base model (run once):
+   ollama pull llama3.2:3b
+
+3. Open Command Prompt/PowerShell and change to this folder:
+   cd "C:\Users\YourName\OneDrive\Desktop\final slm project\ollama"
+
+   Replace YourName with your Windows username and adjust the path if needed.
+
+4. Create the custom assistant:
+   ollama create fifa-player-assistant -f Modelfile
+
+5. Run it:
+   ollama run fifa-player-assistant
+
+6. List downloaded models:
+   ollama list
+
+7. Remove this custom model if needed:
+   ollama rm fifa-player-assistant
+
+TEST PROMPT:
+Explain goals, assists, expected goals (xG), expected assists (xA),
+minutes played, and pass accuracy in simple language.
+
+IMPORTANT:
+This creates a custom Ollama model based on llama3.2:3b.
+It does NOT convert or load the fine-tuned FLAN-T5-Small checkpoint.

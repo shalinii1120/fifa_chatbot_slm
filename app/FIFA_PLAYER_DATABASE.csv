@@ -1,0 +1,1249 @@
+player_id,player_name,age,nationality,team,position,height_cm,weight_kg,preferred_foot,club_name,market_value_eur
+P00055,Rodri Fati,26,Spanish,Spain,Goalkeeper,195,75,Left,RB Salzburg,4384884
+P00070,Ansu Le Normand,19,Spanish,Spain,Midfielder,178,75,Right,Chelsea,4918927
+P00066,Gavi Ramos,18,Spanish,Spain,Midfielder,177,72,Left,AIK,125015698
+P00073,Pedro Cubarsi,20,Spanish,Spain,Forward,182,74,Right,PSV Eindhoven,11805512
+P00059,Alvaro Oyarzabal,23,Spanish,Spain,Defender,191,81,Left,Juventus,13325174
+P00072,Dani Gavi,21,Spanish,Spain,Midfielder,181,78,Right,Dinamo Zagreb,34588916
+P00058,Rodri Laporte,27,Spanish,Spain,Defender,188,80,Right,Legia Warsaw,12330574
+P00078,Ansu Fati,27,Spanish,Spain,Forward,182,72,Right,Red Star Belgrade,2617484
+P00056,Pedro Torres,24,Spanish,Spain,Defender,176,78,Left,Legia Warsaw,15191371
+P00074,Gavi Le Normand,25,Spanish,Spain,Forward,172,70,Right,Galatasaray,27469713
+P00069,Ferran Cubarsi,24,Spanish,Spain,Midfielder,181,81,Left,Manchester City,16807939
+P00071,Marco Mikel,18,Spanish,Spain,Midfielder,183,70,Right,Liverpool,41434814
+P00076,Alvaro Gavi,28,Spanish,Spain,Forward,183,75,Right,PSV Eindhoven,13496935
+P00067,Rodri Alonso,25,Spanish,Spain,Midfielder,183,78,Right,RB Salzburg,9912074
+P00057,Gavi Asensio,22,Spanish,Spain,Defender,187,76,Right,Grasshoppers,1169641
+P00062,Marco Carvajal,33,Spanish,Spain,Defender,175,73,Right,Grasshoppers,50389187
+P00077,Ferran Morata,26,Spanish,Spain,Forward,188,78,Right,Borussia Dortmund,19184237
+P00064,Aymeric Yamal,27,Spanish,Spain,Defender,181,80,Left,Feyenoord,4476815
+P00061,Ansu Alba,28,Spanish,Spain,Defender,193,83,Right,Dinamo Zagreb,22482687
+P00068,Alvaro Llorente,19,Spanish,Spain,Midfielder,186,80,Right,Partizan,37350285
+P00060,Ferran Pau,35,Spanish,Spain,Defender,179,72,Right,Sporting CP,2223129
+P00075,Rodri Mikel,25,Spanish,Spain,Forward,173,73,Right,Inter Milan,48284094
+P00063,Dani Garcia,28,Spanish,Spain,Defender,183,80,Right,Porto,2850234
+P00065,Pedro Riquelme,24,Spanish,Spain,Midfielder,171,67,Right,Young Boys,6535074
+P00053,Pedro Gavi,36,Spanish,Spain,Goalkeeper,191,80,Left,Fenerbahce,2084465
+P00054,Gavi Morata,27,Spanish,Spain,Goalkeeper,190,75,Left,Borussia Dortmund,1484206
+P01225,Lyle Mvala,38,South African,South Africa,Goalkeeper,190,82,Right,TP Mazembe,1803794
+P01241,Sphephelo Mbatha,27,South African,South Africa,Midfielder,178,76,Right,Club Africain,22197366
+P01243,Percy Mkhize,24,South African,South Africa,Forward,187,75,Left,Club Africain,10066009
+P01240,Mothobi Xoki,25,South African,South Africa,Midfielder,185,79,Right,Raja Casablanca,3313516
+P01228,Lyle Makgopa,27,South African,South Africa,Defender,181,72,Right,JS Kabylie,15167829
+P01239,Ronwen Mkhize,26,South African,South Africa,Midfielder,183,74,Right,ES Tunis,56794189
+P01247,Ronwen Mokoena,23,South African,South Africa,Forward,169,69,Right,Al Ahly,10986060
+P01229,Teboho Maela,24,South African,South Africa,Defender,179,76,Left,Kaizer Chiefs,11936472
+P01244,Themba Xoki,24,South African,South Africa,Forward,178,75,Right,TP Mazembe,7907726
+P01233,Luther Maboe,22,South African,South Africa,Defender,190,81,Right,Al Ahly,10904101
+P01238,Teboho Billiat,26,South African,South Africa,Midfielder,186,79,Right,Gor Mahia,11171377
+P01246,Teboho Zwane,26,South African,South Africa,Forward,169,72,Right,Club Africain,18839767
+P01226,Percy Williams,25,South African,South Africa,Defender,172,73,Right,Orlando Pirates,3827050
+P01227,Themba Sithole,29,South African,South Africa,Defender,184,77,Right,ASEC Mimosas,23381618
+P01237,Lyle Mothiba,19,South African,South Africa,Midfielder,174,70,Right,Mamelodi Sundowns,14055270
+P01234,Evidence Zungu,34,South African,South Africa,Defender,184,80,Right,MC Alger,35009648
+P01235,Percy Lorch,31,South African,South Africa,Midfielder,183,76,Left,Al Ahly,13340560
+P01236,Themba Mdantsane,22,South African,South Africa,Midfielder,177,69,Right,Al Ahly,2843803
+P01245,Lyle Mbatha,24,South African,South Africa,Forward,171,72,Right,TP Mazembe,6738220
+P01232,Sphephelo Moseamedi,25,South African,South Africa,Defender,173,70,Right,Kaizer Chiefs,10272165
+P01248,Mothobi Mvala,29,South African,South Africa,Forward,183,82,Right,Club Africain,4868899
+P01231,Mothobi Mokoena,33,South African,South Africa,Defender,188,76,Right,Mamelodi Sundowns,65166284
+P01230,Ronwen Dolly,30,South African,South Africa,Defender,183,76,Left,JS Kabylie,40274135
+P01242,Luther Zwane,25,South African,South Africa,Midfielder,172,71,Right,Al-Masry,3563990
+P01224,Themba Mokoena,26,South African,South Africa,Goalkeeper,188,77,Right,Gor Mahia,7307306
+P01223,Percy Zwane,32,South African,South Africa,Goalkeeper,187,81,Right,Al Ahly,1883396
+P00626,Gianluca Advincula,25,Peruvian,Peru,Goalkeeper,195,77,Right,Gremio,2234659
+P00635,Sergio Lora,22,Peruvian,Peru,Defender,187,79,Right,Colo-Colo,7568023
+P00650,Christian Cueva,26,Peruvian,Peru,Forward,175,72,Right,River Plate,14334409
+P00629,Gianluca Tapia,23,Peruvian,Peru,Defender,189,75,Left,Santos,3718377
+P00638,Gianluca Peña,29,Peruvian,Peru,Midfielder,173,73,Right,Universidad de Chile,146864940
+P00633,Christian Valera,28,Peruvian,Peru,Defender,190,81,Right,Flamengo,1457590
+P00636,Alexander Hohberg,27,Peruvian,Peru,Defender,179,79,Left,LDU Quito,5750956
+P00632,André Yotun,27,Peruvian,Peru,Defender,188,81,Right,Millonarios,16057761
+P00639,Pedro Garcia,29,Peruvian,Peru,Midfielder,182,76,Right,Universidad de Chile,6071428
+P00630,Pedro Callens,29,Peruvian,Peru,Defender,191,79,Right,Barcelona SC,1301709
+P00642,Christian Urruti,28,Peruvian,Peru,Midfielder,174,79,Right,LDU Quito,19951489
+P00648,Luis Lapadula,29,Peruvian,Peru,Forward,174,73,Left,Emelec,2084203
+P00646,Gianluca Urruti,26,Peruvian,Peru,Forward,184,74,Right,Millonarios,8032380
+P00647,Pedro Lliuya,25,Peruvian,Peru,Forward,194,75,Right,Atletico Nacional,7169728
+P00634,Renato Traverso,33,Peruvian,Peru,Defender,179,80,Right,Nacional,25538402
+P00637,Paolo Flores,33,Peruvian,Peru,Midfielder,180,74,Right,Nacional,2233688
+P00628,Paolo Carrillo,29,Peruvian,Peru,Defender,179,78,Right,Colo-Colo,3188401
+P00641,André Gonzalez,27,Peruvian,Peru,Midfielder,177,73,Right,Penarol,3565779
+P00631,Luis Abram,34,Peruvian,Peru,Defender,183,79,Left,Sao Paulo,14916212
+P00640,Luis Cartagena,30,Peruvian,Peru,Midfielder,176,68,Right,Nacional,84915109
+P00644,Sergio Lapadula,22,Peruvian,Peru,Midfielder,182,76,Left,LDU Quito,9583419
+P00649,André Advincula,18,Peruvian,Peru,Forward,183,70,Right,Deportivo Cali,18257949
+P00643,Renato Lliuya,28,Peruvian,Peru,Midfielder,181,77,Right,Universidad de Chile,16541745
+P00645,Paolo Gonzalez,27,Peruvian,Peru,Forward,167,76,Right,Atletico Nacional,95330064
+P00625,Paolo Lapadula,30,Peruvian,Peru,Goalkeeper,180,71,Right,Flamengo,8269183
+P00627,Pedro Cueva,23,Peruvian,Peru,Goalkeeper,187,76,Right,Emelec,3412371
+P00133,Memphis van Dijk,31,Dutch,Netherlands,Goalkeeper,190,83,Right,AIK,7105500
+P00141,Teun Gravenberch,18,Dutch,Netherlands,Defender,179,74,Right,Copenhagen,24863794
+P00147,Matthijs Wijndal,25,Dutch,Netherlands,Midfielder,179,78,Right,Midtjylland,3323339
+P00145,Memphis van de Ven,19,Dutch,Netherlands,Midfielder,181,76,Right,Grasshoppers,5825326
+P00140,Denzel Malen,27,Dutch,Netherlands,Defender,183,76,Right,Besiktas,19251935
+P00136,Memphis Simons,26,Dutch,Netherlands,Defender,179,73,Right,RB Salzburg,89592644
+P00153,Memphis Zerrouki,25,Dutch,Netherlands,Forward,166,71,Right,Fenerbahce,154445945
+P00135,Cody Dumfries,30,Dutch,Netherlands,Defender,181,78,Right,Fenerbahce,26893686
+P00154,Daley Gakpo,26,Dutch,Netherlands,Forward,185,76,Left,Besiktas,27908261
+P00144,Cody de Jong,25,Dutch,Netherlands,Midfielder,184,84,Left,Rapid Vienna,30674910
+P00156,Virgil van Dijk,29,Dutch,Netherlands,Forward,177,72,Right,Anderlecht,12881745
+P00138,Matthijs Timber,31,Dutch,Netherlands,Defender,192,75,Right,Benfica,3113021
+P00137,Daley Berghuis,26,Dutch,Netherlands,Defender,187,75,Left,RB Leipzig,3632122
+P00146,Daley Frimpong,24,Dutch,Netherlands,Midfielder,174,74,Right,Marseille,29198612
+P00142,Xavi Veerman,29,Dutch,Netherlands,Defender,189,76,Right,Tottenham,3161289
+P00149,Denzel Zerrouki,31,Dutch,Netherlands,Midfielder,180,76,Right,Young Boys,4090830
+P00134,Frenkie de Ligt,25,Dutch,Netherlands,Defender,191,84,Right,Atletico Madrid,3079799
+P00155,Matthijs Blind,20,Dutch,Netherlands,Forward,184,79,Right,Roma,5709728
+P00152,Cody Lang,23,Dutch,Netherlands,Forward,190,83,Right,Dinamo Zagreb,118478456
+P00150,Teun Gakpo,21,Dutch,Netherlands,Midfielder,177,76,Right,Midtjylland,7013403
+P00148,Virgil Lang,22,Dutch,Netherlands,Midfielder,183,78,Right,Copenhagen,1940925
+P00139,Virgil Weghorst,29,Dutch,Netherlands,Defender,189,79,Right,Lech Poznan,28344304
+P00151,Frenkie Wijndal,30,Dutch,Netherlands,Forward,172,72,Right,Benfica,35232276
+P00143,Frenkie Ake,25,Dutch,Netherlands,Midfielder,179,76,Right,Sporting CP,81570317
+P00131,Frenkie Gakpo,29,Dutch,Netherlands,Goalkeeper,188,82,Right,Tottenham,15983743
+P00132,Cody Blind,37,Dutch,Netherlands,Goalkeeper,191,80,Right,AIK,4711160
+P01041,Achraf Saiss,30,Moroccan,Morocco,Goalkeeper,188,78,Right,Zamalek,2480872
+P01054,Romain Aboukhlal,18,Moroccan,Morocco,Midfielder,183,85,Right,TP Mazembe,46433213
+P01059,Noussair Chibi,22,Moroccan,Morocco,Midfielder,182,75,Right,Al-Hilal Omdurman,3323569
+P01048,Yassine Dari,32,Moroccan,Morocco,Defender,181,74,Right,Wydad Casablanca,3240864
+P01063,Nayef Chibi,17,Moroccan,Morocco,Forward,168,70,Right,TP Mazembe,7351828
+P01045,Romain Mazraoui,33,Moroccan,Morocco,Defender,188,81,Right,Gor Mahia,10590344
+P01062,Romain Aguerd,29,Moroccan,Morocco,Forward,168,69,Right,Gor Mahia,12547415
+P01058,Hakim Aguerd,21,Moroccan,Morocco,Midfielder,182,78,Left,TP Mazembe,16376317
+P01050,Noussair El Khannouss,23,Moroccan,Morocco,Defender,180,74,Left,Club Africain,2970061
+P01065,Yassine Amrabat,31,Moroccan,Morocco,Forward,181,77,Left,Club Africain,93873778
+P01066,Hakim Ziyech,19,Moroccan,Morocco,Forward,188,81,Right,TP Mazembe,73476489
+P01064,Sofyan Saiss,32,Moroccan,Morocco,Forward,186,76,Right,MC Alger,10549298
+P01047,Sofyan Hakimi,27,Moroccan,Morocco,Defender,183,77,Right,Zamalek,2957986
+P01057,Yassine El Yamiq,19,Moroccan,Morocco,Midfielder,177,77,Right,Al-Hilal Omdurman,21194147
+P01056,Sofyan Chair,28,Moroccan,Morocco,Midfielder,191,79,Left,Gor Mahia,19794234
+P01060,Selim Saiss,21,Moroccan,Morocco,Midfielder,186,82,Right,Al-Hilal Omdurman,62179334
+P01049,Hakim Ezzalzouli,26,Moroccan,Morocco,Defender,184,73,Right,Wydad Casablanca,79514063
+P01055,Nayef Saibari,24,Moroccan,Morocco,Midfielder,175,70,Right,ASEC Mimosas,3938028
+P01061,Achraf El Yamiq,21,Moroccan,Morocco,Forward,181,72,Right,Wydad Casablanca,21996955
+P01053,Achraf Amellah,24,Moroccan,Morocco,Midfielder,186,77,Left,JS Kabylie,20874115
+P01044,Achraf Bounou,29,Moroccan,Morocco,Defender,190,79,Right,Orlando Pirates,13987052
+P01046,Nayef Boufal,28,Moroccan,Morocco,Defender,183,76,Right,Al-Masry,5261191
+P01051,Selim Benoun,24,Moroccan,Morocco,Defender,185,75,Left,Gor Mahia,6526379
+P01052,Azzedine Riad,24,Moroccan,Morocco,Defender,184,76,Left,Gor Mahia,6360926
+P01042,Romain Amrabat,26,Moroccan,Morocco,Goalkeeper,187,73,Right,ASEC Mimosas,3417291
+P01043,Nayef Ziyech,28,Moroccan,Morocco,Goalkeeper,189,78,Left,Mamelodi Sundowns,1555212
+P01017,Idrissa Sarr,28,Senegalese,Senegal,Goalkeeper,189,82,Right,Orlando Pirates,975312
+P01031,Boulaye Diouf,30,Senegalese,Senegal,Midfielder,176,71,Left,ASEC Mimosas,7754653
+P01036,Kalidou Faye,25,Senegalese,Senegal,Forward,165,66,Right,Mamelodi Sundowns,4846987
+P01030,Edouard Ndiaye,30,Senegalese,Senegal,Midfielder,177,74,Left,JS Kabylie,6919469
+P01023,Pape Gomis,22,Senegalese,Senegal,Defender,175,74,Left,ASEC Mimosas,55313325
+P01037,Idrissa Seck,31,Senegalese,Senegal,Forward,163,71,Right,Kaizer Chiefs,6123607
+P01019,Kalidou Mendy,25,Senegalese,Senegal,Defender,179,75,Right,ES Tunis,8887392
+P01034,Ismaila Koulibaly,25,Senegalese,Senegal,Midfielder,177,72,Right,Zamalek,1872776
+P01038,Edouard Koulibaly,34,Senegalese,Senegal,Forward,170,71,Left,Mamelodi Sundowns,8684872
+P01039,Boulaye Mendy,24,Senegalese,Senegal,Forward,180,77,Left,ES Tunis,13286443
+P01033,Ferland Seck,23,Senegalese,Senegal,Midfielder,185,79,Right,Wydad Casablanca,2884880
+P01026,Moussa Fall,30,Senegalese,Senegal,Defender,183,77,Right,Gor Mahia,9111599
+P01020,Idrissa N'Diaye,22,Senegalese,Senegal,Defender,182,80,Left,Gor Mahia,44159910
+P01022,Boulaye Niang,36,Senegalese,Senegal,Defender,180,75,Left,ASEC Mimosas,23882475
+P01029,Idrissa Dia,22,Senegalese,Senegal,Midfielder,182,74,Right,ES Tunis,8228535
+P01025,Ismaila Ba,29,Senegalese,Senegal,Defender,185,81,Left,Al-Masry,84380961
+P01021,Edouard Cisse,31,Senegalese,Senegal,Defender,187,80,Right,Raja Casablanca,8146955
+P01024,Ferland Sow,32,Senegalese,Senegal,Defender,182,75,Left,Gor Mahia,24985556
+P01040,Pape Sarr,27,Senegalese,Senegal,Forward,186,78,Right,Orlando Pirates,44198676
+P01035,Sadio Diouf,24,Senegalese,Senegal,Forward,180,71,Right,TP Mazembe,31138172
+P01032,Pape Faye,22,Senegalese,Senegal,Midfielder,178,74,Left,TP Mazembe,4603871
+P01028,Kalidou Diallo,21,Senegalese,Senegal,Midfielder,182,79,Right,MC Alger,21460633
+P01027,Sadio Sabaly,25,Senegalese,Senegal,Midfielder,174,73,Right,Al-Hilal Omdurman,3633424
+P01018,Sadio Diatta,28,Senegalese,Senegal,Defender,181,77,Right,Kaizer Chiefs,8080708
+P01016,Kalidou Mendy,25,Senegalese,Senegal,Goalkeeper,191,79,Right,TP Mazembe,31261966
+P01015,Sadio Koulibaly,24,Senegalese,Senegal,Goalkeeper,185,79,Right,MC Alger,84425124
+P01172,Ismael Brahimi,34,Algerian,Algeria,Goalkeeper,187,80,Right,ES Tunis,14485120
+P01196,Ramiz Mandrea,23,Algerian,Algeria,Forward,185,75,Left,Kaizer Chiefs,13914095
+P01193,Sofiane Kara,24,Algerian,Algeria,Forward,181,71,Right,TP Mazembe,10715789
+P01178,Houssem Belkebla,36,Algerian,Algeria,Defender,181,82,Left,Al Ahly,9696289
+P01186,Yacine Benkhemassa,25,Algerian,Algeria,Midfielder,177,72,Left,Raja Casablanca,10597938
+P01183,Riyad Benrahma,30,Algerian,Algeria,Midfielder,181,71,Right,MC Alger,67041277
+P01179,Ramiz Slimani,29,Algerian,Algeria,Defender,192,81,Right,Mamelodi Sundowns,3261743
+P01176,Sofiane Zerrouki,31,Algerian,Algeria,Defender,179,73,Right,Al Ahly,2784708
+P01189,Adam Kara,21,Algerian,Algeria,Midfielder,177,75,Right,Kaizer Chiefs,16623778
+P01194,Yacine Bennacer,30,Algerian,Algeria,Forward,185,77,Left,TP Mazembe,46357247
+P01182,Islam Touzi,19,Algerian,Algeria,Defender,178,69,Right,Al Ahly,1744100
+P01192,Ismael Boufantin,29,Algerian,Algeria,Forward,177,78,Right,Al-Masry,4923166
+P01174,Riyad Bensebaini,22,Algerian,Algeria,Defender,193,80,Right,MC Alger,8118573
+P01191,Riyad Mokrani,28,Algerian,Algeria,Forward,192,76,Left,ASEC Mimosas,4028721
+P01177,Yacine Aouar,20,Algerian,Algeria,Defender,183,79,Right,JS Kabylie,16417911
+P01181,Nabil Khezami,29,Algerian,Algeria,Defender,183,83,Right,Orlando Pirates,6091684
+P01188,Ramiz Boufantin,28,Algerian,Algeria,Midfielder,188,78,Right,JS Kabylie,110660571
+P01180,Adam Toudic,20,Algerian,Algeria,Defender,184,78,Right,Zamalek,8424078
+P01187,Houssem Mokrani,24,Algerian,Algeria,Midfielder,176,72,Left,Gor Mahia,200000000
+P01190,Nabil Bennacer,24,Algerian,Algeria,Midfielder,178,76,Left,Raja Casablanca,1834275
+P01184,Ismael Brahim,21,Algerian,Algeria,Midfielder,187,79,Left,Raja Casablanca,7191033
+P01195,Houssem Brahimi,27,Algerian,Algeria,Forward,168,69,Right,MC Alger,89315055
+P01175,Ismael Benlamri,30,Algerian,Algeria,Defender,183,77,Left,Kaizer Chiefs,59133562
+P01185,Sofiane Bayo,18,Algerian,Algeria,Midfielder,178,68,Right,Mamelodi Sundowns,19119764
+P01171,Riyad Bennacer,28,Algerian,Algeria,Goalkeeper,192,79,Right,ASEC Mimosas,13935454
+P01173,Sofiane Mandrea,32,Algerian,Algeria,Goalkeeper,192,79,Right,ES Tunis,6671023
+P00105,Gianluigi Chiesa,33,Italian,Italy,Goalkeeper,187,75,Right,Borussia Dortmund,2092367
+P00116,Alessandro Udogie,24,Italian,Italy,Defender,185,77,Left,Young Boys,5208350
+P00115,Stephan Guglielmo,25,Italian,Italy,Defender,189,77,Left,Brondby,112187356
+P00111,Sandro Scamacca,26,Italian,Italy,Defender,184,75,Right,RB Leipzig,2779126
+P00119,Nicolo Vicario,27,Italian,Italy,Midfielder,170,74,Right,Lech Poznan,6332763
+P00122,Ciro Colpani,26,Italian,Italy,Midfielder,177,76,Right,Rapid Vienna,37583779
+P00112,Marco Locatelli,24,Italian,Italy,Defender,186,74,Right,Young Boys,42849612
+P00124,Stephan Chiesa,27,Italian,Italy,Midfielder,177,75,Right,Bayer Leverkusen,8878530
+P00129,Marco Tonali,27,Italian,Italy,Forward,171,68,Left,Feyenoord,11851880
+P00125,Gianluigi Calafiori,25,Italian,Italy,Forward,189,77,Right,Atletico Madrid,123748005
+P00114,Lorenzo Frascati,20,Italian,Italy,Defender,192,76,Right,Feyenoord,39892640
+P00123,Lorenzo Retegui,34,Italian,Italy,Midfielder,177,74,Right,Midtjylland,5468237
+P00128,Sandro Chiesa,31,Italian,Italy,Forward,185,78,Right,Juventus,5781531
+P00109,Federico Pellegrini,24,Italian,Italy,Defender,172,71,Right,RB Salzburg,13518441
+P00120,Sandro Bellanova,22,Italian,Italy,Midfielder,174,70,Right,Borussia Dortmund,61013834
+P00113,Ciro Spinazzola,31,Italian,Italy,Defender,186,77,Right,AC Milan,1767995
+P00118,Federico Berardi,27,Italian,Italy,Midfielder,182,79,Right,Lech Poznan,52387376
+P00117,Gianluigi Di Lorenzo,34,Italian,Italy,Midfielder,182,74,Left,Paris Saint-Germain,12170058
+P00108,Gianluigi Verratti,31,Italian,Italy,Defender,182,71,Right,Barcelona,5678945
+P00121,Marco Calafiori,24,Italian,Italy,Midfielder,184,76,Right,Malmo FF,10349123
+P00127,Nicolo Retegui,29,Italian,Italy,Forward,182,80,Left,Anderlecht,11905673
+P00130,Ciro Immobile,31,Italian,Italy,Forward,163,72,Right,AIK,11478348
+P00126,Federico Colpani,29,Italian,Italy,Forward,175,74,Right,Juventus,132284994
+P00110,Nicolo Bastoni,29,Italian,Italy,Defender,182,80,Left,Young Boys,4258075
+P00106,Federico Tonali,38,Italian,Italy,Goalkeeper,183,77,Right,Borussia Dortmund,3518278
+P00107,Nicolo Immobile,29,Italian,Italy,Goalkeeper,189,79,Right,Dinamo Zagreb,2791089
+P00470,Vinicius Martins,34,Brazilian,Brazil,Goalkeeper,186,84,Left,Nacional,1736891
+P00488,Richarlison Junior,32,Brazilian,Brazil,Midfielder,182,76,Right,Deportivo Cali,35973227
+P00493,Casemiro Martins,30,Brazilian,Brazil,Forward,178,73,Left,Colo-Colo,9390513
+P00481,Neymar Pereira,20,Brazilian,Brazil,Midfielder,183,75,Right,Nacional,3233609
+P00487,Alisson Reis,29,Brazilian,Brazil,Midfielder,175,71,Right,Gremio,4416108
+P00484,Gabriel Souza,30,Brazilian,Brazil,Midfielder,177,75,Right,River Plate,11278232
+P00485,Casemiro Carvalho,29,Brazilian,Brazil,Midfielder,185,72,Right,Millonarios,9937761
+P00477,Marquinhos Santos,32,Brazilian,Brazil,Defender,192,74,Left,Santos,12570282
+P00479,Richarlison Ferreira,27,Brazilian,Brazil,Defender,185,73,Right,Penarol,26911549
+P00478,Alisson Oliveira,30,Brazilian,Brazil,Defender,191,78,Right,Flamengo,2674701
+P00483,Rodrygo Costa,24,Brazilian,Brazil,Midfielder,181,72,Right,Sao Paulo,7936109
+P00474,Rodrygo Fabinho,28,Brazilian,Brazil,Defender,181,78,Right,River Plate,2286808
+P00480,Bruno Lima,22,Brazilian,Brazil,Defender,185,77,Right,Atletico Nacional,38230618
+P00476,Casemiro Alexandre,29,Brazilian,Brazil,Defender,184,79,Right,River Plate,5776478
+P00473,Vinicius Guimaraes,20,Brazilian,Brazil,Defender,187,77,Left,Barcelona SC,17050213
+P00491,Rodrygo Reis,27,Brazilian,Brazil,Forward,169,74,Left,River Plate,4740758
+P00486,Marquinhos Nunes,29,Brazilian,Brazil,Midfielder,185,83,Left,Emelec,22488292
+P00492,Gabriel Junior,24,Brazilian,Brazil,Forward,181,76,Right,River Plate,5105484
+P00472,Neymar Mendes,29,Brazilian,Brazil,Defender,187,76,Right,Colo-Colo,1710606
+P00482,Vinicius Moreira,30,Brazilian,Brazil,Midfielder,178,77,Left,Emelec,3080284
+P00494,Marquinhos Paqueta,27,Brazilian,Brazil,Forward,177,75,Right,Gremio,47892505
+P00475,Gabriel Alisson,31,Brazilian,Brazil,Defender,179,72,Right,Barcelona SC,11192687
+P00489,Neymar Carvalho,28,Brazilian,Brazil,Forward,183,72,Right,Independiente,8457754
+P00490,Vinicius Nunes,23,Brazilian,Brazil,Forward,183,76,Right,Gremio,71236832
+P00469,Neymar Junior,31,Brazilian,Brazil,Goalkeeper,193,85,Right,Boca Juniors,4064273
+P00471,Rodrygo Paqueta,38,Brazilian,Brazil,Goalkeeper,190,79,Right,Flamengo,15579427
+P00444,Scott McGregor,32,Scottish,Scotland,Goalkeeper,188,77,Right,Anderlecht,10797402
+P00455,Andrew Ferguson,26,Scottish,Scotland,Midfielder,180,74,Left,Liverpool,34801587
+P00468,Liam Gilmour,23,Scottish,Scotland,Forward,177,76,Right,Fenerbahce,17755685
+P00450,Graeme Doak,31,Scottish,Scotland,Defender,181,74,Right,FC Basel,2909646
+P00461,Ryan Clark,23,Scottish,Scotland,Midfielder,187,81,Left,Red Star Belgrade,40640708
+P00451,Liam Turnbull,31,Scottish,Scotland,Defender,183,76,Right,Arsenal,2354428
+P00459,Graeme Jack,27,Scottish,Scotland,Midfielder,169,70,Right,AC Milan,7629458
+P00447,Scott Patterson,23,Scottish,Scotland,Defender,197,79,Right,Partizan,2565981
+P00453,Callum Christie,31,Scottish,Scotland,Defender,172,71,Right,Dinamo Zagreb,23551100
+P00454,Kieran Dykes,25,Scottish,Scotland,Defender,181,80,Right,Red Star Belgrade,6791168
+P00463,Andrew Jack,22,Scottish,Scotland,Forward,181,72,Right,Sporting CP,20817586
+P00465,John Clark,23,Scottish,Scotland,Forward,186,78,Left,Marseille,11797911
+P00462,Callum McTominay,26,Scottish,Scotland,Midfielder,187,77,Left,RB Leipzig,24763620
+P00456,Scott Lewis,24,Scottish,Scotland,Midfielder,180,76,Right,Brondby,19220064
+P00446,Andrew Adams,21,Scottish,Scotland,Defender,195,81,Right,Roma,31827715
+P00448,John Hanley,27,Scottish,Scotland,Defender,182,77,Right,Dinamo Zagreb,2633214
+P00460,Liam Gallagher,28,Scottish,Scotland,Midfielder,188,82,Right,AC Milan,28597174
+P00458,Stuart Shankland,21,Scottish,Scotland,Midfielder,176,75,Left,Inter Milan,5410461
+P00457,John Armstrong,26,Scottish,Scotland,Midfielder,178,75,Right,Lech Poznan,78507696
+P00449,Stuart Hendry,27,Scottish,Scotland,Defender,180,72,Left,Besiktas,16383295
+P00452,Ryan Forrest,26,Scottish,Scotland,Defender,180,75,Right,Manchester City,1383066
+P00464,Scott Gallagher,29,Scottish,Scotland,Forward,177,78,Right,Bayern Munich,45919142
+P00467,Graeme McGregor,31,Scottish,Scotland,Forward,188,78,Right,Midtjylland,4597115
+P00466,Stuart McTominay,21,Scottish,Scotland,Forward,183,78,Right,PSV Eindhoven,42867706
+P00445,John Gilmour,26,Scottish,Scotland,Goalkeeper,188,82,Right,Arsenal,6966545
+P00443,Andrew McTominay,23,Scottish,Scotland,Goalkeeper,190,83,Right,Anderlecht,13160802
+P00263,Simon Wind,25,Danish,Denmark,Goalkeeper,189,80,Left,Copenhagen,5209601
+P00270,Mikkel Bah,32,Danish,Denmark,Defender,181,70,Left,Midtjylland,3316593
+P00264,Christian Maehle,32,Danish,Denmark,Defender,185,84,Right,Copenhagen,19203018
+P00284,Andreas Hojbjerg,24,Danish,Denmark,Forward,183,77,Left,Roma,21091317
+P00281,Christian Skov,30,Danish,Denmark,Forward,171,73,Right,AC Milan,25131000
+P00283,Simon Hansen,25,Danish,Denmark,Forward,187,78,Right,Partizan,15469796
+P00275,Simon Poulsen,23,Danish,Denmark,Midfielder,172,73,Right,AIK,4444778
+P00271,Kasper Cornelius,31,Danish,Denmark,Defender,177,66,Right,Barcelona,20421618
+P00265,Pierre-Emile Damsgaard,28,Danish,Denmark,Defender,188,71,Right,PSV Eindhoven,7243042
+P00268,Joakim Maeland,25,Danish,Denmark,Defender,180,75,Left,Barcelona,5505160
+P00285,Joakim Christensen,30,Danish,Denmark,Forward,191,81,Right,Manchester United,21394836
+P00282,Pierre-Emile Laursen,24,Danish,Denmark,Forward,172,68,Right,Brondby,4491253
+P00277,Joakim Skov,28,Danish,Denmark,Midfielder,174,71,Right,Besiktas,12215380
+P00266,Simon Dolberg,25,Danish,Denmark,Defender,185,77,Left,Young Boys,11869878
+P00276,Andreas Vestergaard,27,Danish,Denmark,Midfielder,182,73,Left,Arsenal,3285521
+P00278,Rasmus Laursen,21,Danish,Denmark,Midfielder,189,84,Left,Osijek,51708759
+P00286,Rasmus Wind,19,Danish,Denmark,Forward,182,78,Right,Paris Saint-Germain,11558415
+P00267,Andreas Lindstrom,25,Danish,Denmark,Defender,179,75,Right,Ajax,27038070
+P00273,Christian Wass,22,Danish,Denmark,Midfielder,184,77,Right,Osijek,5818249
+P00269,Rasmus Andersen,30,Danish,Denmark,Defender,183,76,Right,Feyenoord,148079777
+P00280,Kasper Hojbjerg,27,Danish,Denmark,Midfielder,173,71,Left,Besiktas,3714891
+P00272,Jannik Olsen,25,Danish,Denmark,Defender,181,73,Right,Bayern Munich,14830801
+P00279,Mikkel Hansen,22,Danish,Denmark,Midfielder,180,72,Right,Sporting CP,9054642
+P00274,Pierre-Emile Christensen,21,Danish,Denmark,Midfielder,177,74,Right,Anderlecht,4375323
+P00261,Christian Hojbjerg,31,Danish,Denmark,Goalkeeper,190,79,Right,Red Star Belgrade,1478667
+P00262,Pierre-Emile Christensen,32,Danish,Denmark,Goalkeeper,184,78,Right,Anderlecht,1014967
+P01093,Mohammed Partey,24,Ghanaian,Ghana,Goalkeeper,188,83,Right,Wydad Casablanca,9734343
+P01102,Alexander Abubakari,28,Ghanaian,Ghana,Defender,185,77,Right,Wydad Casablanca,5651167
+P01096,Mohammed Sulemana,31,Ghanaian,Ghana,Defender,183,82,Left,ASEC Mimosas,4611388
+P01107,Jordan Kasim,25,Ghanaian,Ghana,Midfielder,183,83,Right,TP Mazembe,5462876
+P01114,Thomas Asante,24,Ghanaian,Ghana,Forward,178,83,Right,Kaizer Chiefs,17025722
+P01098,Jordan Baba,28,Ghanaian,Ghana,Defender,180,70,Right,MC Alger,1361966
+P01110,Inaki Asante,28,Ghanaian,Ghana,Midfielder,181,82,Right,ASEC Mimosas,9528081
+P01117,Kamaldeen Ayew,24,Ghanaian,Ghana,Forward,184,74,Right,Wydad Casablanca,16600369
+P01118,Inaki Williams,24,Ghanaian,Ghana,Forward,171,68,Right,Club Africain,27347683
+P01112,Daniel Partey,22,Ghanaian,Ghana,Midfielder,182,75,Right,Al-Hilal Omdurman,20831598
+P01116,Andre Partey,27,Ghanaian,Ghana,Forward,174,69,Right,Gor Mahia,19009013
+P01103,Daniel Lens,27,Ghanaian,Ghana,Defender,191,77,Right,Raja Casablanca,3210928
+P01115,Jordan Issahaku,25,Ghanaian,Ghana,Forward,179,84,Right,Wydad Casablanca,74681058
+P01099,Andre Kudus,23,Ghanaian,Ghana,Defender,179,72,Left,ES Tunis,29521157
+P01104,Osman Mensah,28,Ghanaian,Ghana,Defender,192,74,Right,Al-Masry,3689239
+P01113,Mohammed Attiogbe,22,Ghanaian,Ghana,Forward,163,67,Left,Zamalek,76768542
+P01108,Andre Osabutey,30,Ghanaian,Ghana,Midfielder,179,75,Right,TP Mazembe,35025737
+P01106,Thomas Rahman,28,Ghanaian,Ghana,Midfielder,172,71,Left,Al Ahly,8214628
+P01109,Kamaldeen Attiogbe,21,Ghanaian,Ghana,Midfielder,166,70,Right,Gor Mahia,13160708
+P01097,Thomas Djiku,31,Ghanaian,Ghana,Defender,181,77,Right,JS Kabylie,4844869
+P01111,Alexander Issahaku,31,Ghanaian,Ghana,Midfielder,167,69,Right,JS Kabylie,66616143
+P01100,Kamaldeen Barnieh,37,Ghanaian,Ghana,Defender,178,69,Right,Kaizer Chiefs,2464692
+P01105,Mohammed Otoo,32,Ghanaian,Ghana,Midfielder,178,75,Right,Kaizer Chiefs,82951403
+P01101,Inaki Seidu,24,Ghanaian,Ghana,Defender,179,78,Right,TP Mazembe,15848770
+P01095,Jordan Williams,23,Ghanaian,Ghana,Goalkeeper,183,73,Right,Al-Hilal Omdurman,28351276
+P01094,Thomas Ayew,28,Ghanaian,Ghana,Goalkeeper,188,81,Right,Wydad Casablanca,17073743
+P00990,Aymen Adnan,25,Iraqi,Iraq,Goalkeeper,191,78,Right,Al-Hilal,27043637
+P00999,Ahmed Moutan,26,Iraqi,Iraq,Defender,187,80,Right,Al-Hilal,53746991
+P01005,Amir Majeed,27,Iraqi,Iraq,Midfielder,177,73,Right,Sydney FC,8190457
+P00997,Safaa Abbas,23,Iraqi,Iraq,Defender,176,74,Right,Al-Hilal,3042229
+P00992,Mohannad Al-Amiri,26,Iraqi,Iraq,Defender,186,80,Right,Western Sydney Wanderers,25133663
+P01002,Aymen Kasid,28,Iraqi,Iraq,Midfielder,181,75,Right,Ulsan HD,25276368
+P01007,Hussein Sadiq,25,Iraqi,Iraq,Midfielder,185,80,Left,Kawasaki Frontale,2919018
+P01010,Aymen Al-Khafaji,26,Iraqi,Iraq,Forward,184,83,Right,Al-Ahli,24086325
+P01013,Amir Adnan,26,Iraqi,Iraq,Forward,176,76,Left,Esteghlal,17633458
+P01001,Mohannad Al-Saadi,29,Iraqi,Iraq,Midfielder,175,79,Right,Ulsan HD,30647464
+P01008,Ahmed Hussein,26,Iraqi,Iraq,Midfielder,173,77,Left,Al-Duhail,9162130
+P00993,Aymen Attwan,27,Iraqi,Iraq,Defender,180,77,Right,Melbourne City,2781845
+P00995,Ali Mohanad,27,Iraqi,Iraq,Defender,188,84,Left,Melbourne City,4300161
+P00994,Ibrahim Daoud,29,Iraqi,Iraq,Defender,180,78,Right,Yokohama F. Marinos,2124773
+P01011,Ibrahim Sadiq,32,Iraqi,Iraq,Forward,175,73,Right,Bunyodkor,11418648
+P01003,Ibrahim Taher,31,Iraqi,Iraq,Midfielder,185,78,Left,Al-Nassr,3655581
+P00996,Amir Younis,28,Iraqi,Iraq,Defender,177,73,Right,Pohang Steelers,2038987
+P01012,Ali Hussein,24,Iraqi,Iraq,Forward,171,69,Right,Yokohama F. Marinos,3080894
+P01004,Ali Al-Timimi,24,Iraqi,Iraq,Midfielder,187,80,Right,Erbil SC,5736751
+P01000,Mustafa Natiq,29,Iraqi,Iraq,Defender,184,75,Left,Esteghlal,9993730
+P00998,Hussein Ibrahim,29,Iraqi,Iraq,Defender,190,78,Left,Jeonbuk Hyundai,26452992
+P01006,Safaa Al-Khafaji,20,Iraqi,Iraq,Midfielder,176,72,Right,Bunyodkor,18303109
+P01014,Safaa Mhawi,26,Iraqi,Iraq,Forward,184,75,Left,Esteghlal,11619579
+P01009,Mohannad Majeed,18,Iraqi,Iraq,Forward,187,75,Right,Al-Ahli,71687038
+P00989,Mohannad Hussein,27,Iraqi,Iraq,Goalkeeper,187,73,Right,Ulsan HD,39256189
+P00991,Ibrahim Mhawi,30,Iraqi,Iraq,Goalkeeper,190,81,Right,Kawasaki Frontale,47033556
+P01068,Samuel Iwobi,28,Nigerian,Nigeria,Goalkeeper,194,83,Left,Gor Mahia,4031553
+P01077,Ademola Dessers,27,Nigerian,Nigeria,Defender,180,71,Left,Orlando Pirates,19607318
+P01092,Calvin Okafor,29,Nigerian,Nigeria,Forward,185,74,Left,Zamalek,3974269
+P01088,Samuel Ejuke,29,Nigerian,Nigeria,Forward,183,76,Right,TP Mazembe,4469531
+P01076,Moses Nwabili,23,Nigerian,Nigeria,Defender,184,74,Left,Mamelodi Sundowns,13284346
+P01087,Victor Ajayi,23,Nigerian,Nigeria,Forward,181,75,Right,Raja Casablanca,5257395
+P01089,Wilfred Agbadou,26,Nigerian,Nigeria,Forward,179,72,Right,Al Ahly,26979878
+P01071,Samuel Simon,29,Nigerian,Nigeria,Defender,183,76,Left,JS Kabylie,7541969
+P01080,Samuel Uzoho,19,Nigerian,Nigeria,Midfielder,181,74,Right,Orlando Pirates,27321405
+P01081,Wilfred Iheanacho,25,Nigerian,Nigeria,Midfielder,170,67,Right,MC Alger,67565642
+P01085,Moses Agbadou,34,Nigerian,Nigeria,Midfielder,181,78,Left,Wydad Casablanca,2291413
+P01078,Terem Bassey,27,Nigerian,Nigeria,Defender,187,71,Right,Wydad Casablanca,30732121
+P01091,Joe Iwobi,24,Nigerian,Nigeria,Forward,180,76,Left,Al-Masry,5745311
+P01083,Joe Ajayi,21,Nigerian,Nigeria,Midfielder,175,75,Right,Al-Masry,4298185
+P01090,Alex Chukwueze,23,Nigerian,Nigeria,Forward,168,67,Left,Gor Mahia,30840644
+P01086,Ademola Chukwueze,24,Nigerian,Nigeria,Midfielder,170,71,Right,Club Africain,14312208
+P01074,Joe Aina,29,Nigerian,Nigeria,Defender,191,76,Right,Al-Masry,9885072
+P01070,Victor Aribo,21,Nigerian,Nigeria,Defender,185,79,Left,MC Alger,2948449
+P01079,Victor Ola-Aina,18,Nigerian,Nigeria,Midfielder,180,74,Right,ES Tunis,21422249
+P01075,Calvin Sanusi,21,Nigerian,Nigeria,Defender,178,72,Left,MC Alger,32150410
+P01073,Alex Ekong,30,Nigerian,Nigeria,Defender,190,77,Right,MC Alger,3837321
+P01072,Wilfred Moffi,28,Nigerian,Nigeria,Defender,175,72,Right,Kaizer Chiefs,13564091
+P01082,Alex Awoniyi,19,Nigerian,Nigeria,Midfielder,176,75,Right,Gor Mahia,2832650
+P01084,Calvin Ejuke,20,Nigerian,Nigeria,Midfielder,186,77,Left,MC Alger,17419548
+P01067,Victor Chukwueze,31,Nigerian,Nigeria,Goalkeeper,181,73,Right,Raja Casablanca,35161251
+P01069,Wilfred Okafor,22,Nigerian,Nigeria,Goalkeeper,187,77,Right,Club Africain,1831229
+P00781,Anibal Rodriguez,27,Panamanian,Panama,Goalkeeper,191,79,Right,Cruz Azul,15427962
+P00803,Michael Brown,20,Panamanian,Panama,Forward,179,77,Right,Club America,17240790
+P00796,Eric Ortiz,24,Panamanian,Panama,Midfielder,180,71,Right,Inter Miami,2420957
+P00787,Eric Aguilar,24,Panamanian,Panama,Defender,186,70,Right,LAFC,10730789
+P00785,Jose Omar,23,Panamanian,Panama,Defender,176,74,Right,Inter Miami,66809584
+P00802,Jose Torres,34,Panamanian,Panama,Forward,184,80,Right,Cruz Azul,22783760
+P00800,Cesar Rodriguez,32,Panamanian,Panama,Midfielder,180,77,Right,Cruz Azul,81123533
+P00788,Abdiel Martinez,23,Panamanian,Panama,Defender,186,78,Right,Cruz Azul,73325454
+P00790,Harold Valenzuela,26,Panamanian,Panama,Defender,180,76,Right,Tauro FC,1502996
+P00806,Armando Cooper,27,Panamanian,Panama,Forward,170,70,Left,Inter Miami,10194051
+P00791,Cesar Rojas,24,Panamanian,Panama,Defender,184,77,Right,LAFC,56246131
+P00797,Abdiel Sanchez,31,Panamanian,Panama,Midfielder,177,72,Right,Club America,14047337
+P00789,Armando Cummings,27,Panamanian,Panama,Defender,183,75,Right,Vancouver Whitecaps,2646500
+P00793,Anibal Perez,28,Panamanian,Panama,Midfielder,182,74,Right,New York Red Bulls,65029453
+P00798,Armando Torres,23,Panamanian,Panama,Midfielder,185,80,Right,Alajuelense,5410952
+P00786,Michael Escobar,32,Panamanian,Panama,Defender,188,72,Left,Tigres UANL,12972614
+P00805,Abdiel Davis,31,Panamanian,Panama,Forward,188,79,Left,LA Galaxy,12610482
+P00794,Jose Gomez,26,Panamanian,Panama,Midfielder,183,79,Left,Tauro FC,27227082
+P00795,Michael Gonzalez,28,Panamanian,Panama,Midfielder,184,78,Right,Atlanta United,21025701
+P00792,Yoel Rodriguez,19,Panamanian,Panama,Defender,187,78,Right,Saprissa,7360784
+P00799,Harold Brown,27,Panamanian,Panama,Midfielder,184,79,Left,Guadalajara,18011399
+P00801,Anibal Sanchez,26,Panamanian,Panama,Forward,173,71,Right,Cruz Azul,121153649
+P00784,Anibal Barcenas,25,Panamanian,Panama,Defender,179,75,Right,Plaza Amador,12635953
+P00804,Eric Rodriguez,29,Panamanian,Panama,Forward,170,73,Right,LA Galaxy,45114742
+P00782,Jose Davis,22,Panamanian,Panama,Goalkeeper,190,84,Right,Tauro FC,13218977
+P00783,Michael Cooper,28,Panamanian,Panama,Goalkeeper,193,79,Right,Plaza Amador,24328544
+P01119,Samuel Choupo-Moting,26,Cameroonian,Cameroon,Goalkeeper,189,78,Right,ES Tunis,74850274
+P01126,Karl Mbeumo,27,Cameroonian,Cameroon,Defender,180,72,Right,Al-Masry,12097116
+P01141,Andre Bassogog,26,Cameroonian,Cameroon,Forward,179,73,Right,Gor Mahia,54663861
+P01131,Samuel Moumi,22,Cameroonian,Cameroon,Midfielder,177,77,Right,Al-Hilal Omdurman,3430408
+P01137,Jean Bassogog,22,Cameroonian,Cameroon,Midfielder,184,72,Right,Kaizer Chiefs,35461236
+P01122,Samuel Toko-Ekambi,27,Cameroonian,Cameroon,Defender,190,81,Right,Al Ahly,3575619
+P01138,Moumi Choupo-Moting,30,Cameroonian,Cameroon,Midfielder,172,69,Right,JS Kabylie,17926924
+P01143,Karl Aboubakar,19,Cameroonian,Cameroon,Forward,177,75,Left,ASEC Mimosas,65761438
+P01140,Eric Mba,30,Cameroonian,Cameroon,Forward,180,77,Right,Zamalek,75848303
+P01136,Nicolas Mba,24,Cameroonian,Cameroon,Midfielder,172,70,Right,TP Mazembe,8099666
+P01134,Vincent Lea,21,Cameroonian,Cameroon,Midfielder,177,71,Right,Al-Masry,15147546
+P01130,Martin Njie,24,Cameroonian,Cameroon,Defender,180,76,Right,Wydad Casablanca,5255451
+P01133,Andre Kunde,24,Cameroonian,Cameroon,Midfielder,175,73,Right,JS Kabylie,52423431
+P01127,Nicolas Siani,31,Cameroonian,Cameroon,Defender,188,80,Left,Kaizer Chiefs,2163073
+P01129,Moumi Hongla,23,Cameroonian,Cameroon,Defender,179,73,Right,Orlando Pirates,3230524
+P01124,Andre Nkoulou,29,Cameroonian,Cameroon,Defender,180,74,Right,Wydad Casablanca,5318816
+P01139,Samuel Olinga,28,Cameroonian,Cameroon,Forward,185,74,Left,Orlando Pirates,29952234
+P01132,Eric Ndip,30,Cameroonian,Cameroon,Midfielder,172,68,Right,Al-Masry,17987721
+P01142,Vincent Choupo-Moting,25,Cameroonian,Cameroon,Forward,190,78,Right,TP Mazembe,74339222
+P01135,Karl Olinga,22,Cameroonian,Cameroon,Midfielder,176,78,Right,Al-Hilal Omdurman,17678395
+P01128,Jean Ondoa,24,Cameroonian,Cameroon,Defender,178,74,Right,Orlando Pirates,1435281
+P01123,Eric Zambo,31,Cameroonian,Cameroon,Defender,188,83,Right,Club Africain,7012823
+P01125,Vincent Castelleto,22,Cameroonian,Cameroon,Defender,183,71,Right,Al-Hilal Omdurman,8947001
+P01144,Nicolas Anguissa,32,Cameroonian,Cameroon,Forward,167,66,Left,Gor Mahia,11547644
+P01120,Eric Aboubakar,24,Cameroonian,Cameroon,Goalkeeper,186,78,Right,MC Alger,843885
+P01121,Andre Anguissa,31,Cameroonian,Cameroon,Goalkeeper,185,83,Left,Al-Masry,3077649
+P00521,Luis Rodriguez,32,Colombian,Colombia,Goalkeeper,192,85,Right,Emelec,2318361
+P00526,Duvan Lerma,28,Colombian,Colombia,Defender,177,71,Right,Atletico Nacional,2664505
+P00536,Yerry Cantillo,22,Colombian,Colombia,Midfielder,186,80,Right,Colo-Colo,9140160
+P00524,Luis Sanchez,22,Colombian,Colombia,Defender,182,76,Left,Flamengo,3321972
+P00541,Luis Villa,32,Colombian,Colombia,Forward,182,80,Right,Deportivo Cali,3578151
+P00529,Juan Quintero,30,Colombian,Colombia,Defender,187,81,Right,River Plate,2339600
+P00531,Jefferson Chara,26,Colombian,Colombia,Defender,172,74,Right,Universidad de Chile,3417682
+P00532,David Lucumi,21,Colombian,Colombia,Defender,180,75,Left,Sao Paulo,25815367
+P00534,James Morelos,23,Colombian,Colombia,Midfielder,177,78,Left,Sao Paulo,11530262
+P00535,Duvan Tesillo,18,Colombian,Colombia,Midfielder,177,68,Right,River Plate,4396056
+P00540,Jefferson Rodriguez,23,Colombian,Colombia,Midfielder,171,76,Right,Sao Paulo,25861649
+P00525,James Ospina,23,Colombian,Colombia,Defender,187,81,Right,Independiente,4706821
+P00539,Radamel Rios,30,Colombian,Colombia,Midfielder,190,81,Left,River Plate,21193087
+P00546,Juan Cuadrado,23,Colombian,Colombia,Forward,190,78,Left,Atletico Nacional,19672993
+P00530,Radamel Cuesta,29,Colombian,Colombia,Defender,178,78,Right,River Plate,28569010
+P00527,Yerry Barrios,22,Colombian,Colombia,Defender,193,77,Right,Universidad de Chile,32981186
+P00542,James Munoz,17,Colombian,Colombia,Forward,183,75,Left,Santos,5550991
+P00545,Davinson Mina,22,Colombian,Colombia,Forward,178,74,Left,River Plate,84963432
+P00543,Duvan Rios,24,Colombian,Colombia,Forward,188,80,Right,Emelec,16808320
+P00544,Yerry Rodriguez,25,Colombian,Colombia,Forward,181,75,Right,Universidad de Chile,4686013
+P00533,Luis Sinisterra,31,Colombian,Colombia,Midfielder,180,80,Left,Racing Club,2903455
+P00538,Juan Munoz,24,Colombian,Colombia,Midfielder,181,75,Right,Independiente,3059605
+P00537,Davinson Villa,24,Colombian,Colombia,Midfielder,185,79,Left,Penarol,25956016
+P00528,Davinson Borja,28,Colombian,Colombia,Defender,190,81,Left,Universidad de Chile,4185079
+P00523,Duvan Cuadrado,32,Colombian,Colombia,Goalkeeper,191,83,Right,Palmeiras,5548705
+P00522,James Mina,25,Colombian,Colombia,Goalkeeper,180,77,Left,Boca Juniors,5746296
+P00366,Alexander Lindelof,33,Swedish,Sweden,Goalkeeper,182,79,Left,Benfica,1744205
+P00368,Dejan Augustinsson,19,Swedish,Sweden,Defender,192,83,Right,Borussia Dortmund,3156641
+P00386,Alexander Hiljemark,20,Swedish,Sweden,Forward,183,75,Right,Liverpool,5666965
+P00380,Viktor Holm,20,Swedish,Sweden,Midfielder,172,75,Right,Real Madrid,63921739
+P00383,Mattias Ljungberg,26,Swedish,Sweden,Midfielder,175,75,Right,Brondby,6171391
+P00381,Robin Wahlqvist,31,Swedish,Sweden,Midfielder,165,71,Right,Malmo FF,13435801
+P00369,Alexander Ekdal,32,Swedish,Sweden,Defender,181,74,Right,Dinamo Zagreb,528822
+P00376,Filip Daka,24,Swedish,Sweden,Defender,191,85,Right,FC Basel,4894153
+P00374,Mattias Karlsson,31,Swedish,Sweden,Defender,179,71,Left,Osijek,7428194
+P00390,Ludwig Olsson,22,Swedish,Sweden,Forward,173,73,Right,Dinamo Zagreb,48798366
+P00377,Dejan Gustafson,19,Swedish,Sweden,Midfielder,179,74,Right,Besiktas,15794088
+P00370,Emil Berg,29,Swedish,Sweden,Defender,175,73,Right,Tottenham,10243337
+P00375,Karl Kristoffersen,30,Swedish,Sweden,Defender,186,76,Left,Midtjylland,6801724
+P00385,Dejan Wahlqvist,30,Swedish,Sweden,Forward,182,78,Right,Juventus,3535774
+P00389,Robin Lindelof,28,Swedish,Sweden,Forward,184,78,Left,Dinamo Zagreb,5845796
+P00388,Viktor Isak,33,Swedish,Sweden,Forward,175,72,Right,Paris Saint-Germain,16588527
+P00371,Viktor Krafth,23,Swedish,Sweden,Defender,183,79,Right,Paris Saint-Germain,4353169
+P00373,Ludwig Elanga,29,Swedish,Sweden,Defender,172,70,Right,Atletico Madrid,35972213
+P00382,Ludwig Hiljemark,25,Swedish,Sweden,Midfielder,181,78,Left,Grasshoppers,3030475
+P00372,Robin Björkman,27,Swedish,Sweden,Defender,189,77,Right,Legia Warsaw,13038313
+P00387,Emil Ljungberg,28,Swedish,Sweden,Forward,178,77,Right,Grasshoppers,45572673
+P00384,Karl Isak,27,Swedish,Sweden,Midfielder,177,76,Right,Barcelona,8289387
+P00379,Emil Garcia,24,Swedish,Sweden,Midfielder,177,73,Right,Legia Warsaw,24026785
+P00378,Alexander Ndicka,24,Swedish,Sweden,Midfielder,180,81,Right,Legia Warsaw,23674468
+P00365,Dejan Isak,29,Swedish,Sweden,Goalkeeper,190,80,Right,AC Milan,13416038
+P00367,Emil Olsson,29,Swedish,Sweden,Goalkeeper,186,76,Left,Marseille,2818786
+P00340,Piotr Glik,27,Polish,Poland,Goalkeeper,191,73,Right,Bayer Leverkusen,5858673
+P00359,Robert Skoras,34,Polish,Poland,Forward,170,71,Left,Paris Saint-Germain,12927808
+P00354,Arkadiusz Puchacz,23,Polish,Poland,Midfielder,179,78,Left,Roma,8726917
+P00342,Robert Krychowiak,27,Polish,Poland,Defender,182,83,Right,Malmo FF,7306230
+P00346,Grzegorz Piatek,26,Polish,Poland,Defender,180,72,Right,Young Boys,3165157
+P00349,Jakub Helik,18,Polish,Poland,Defender,179,73,Right,Copenhagen,3656412
+P00360,Piotr Urbański,22,Polish,Poland,Forward,186,75,Left,Copenhagen,15448669
+P00345,Arkadiusz Dawidowicz,31,Polish,Poland,Defender,180,75,Left,Porto,8671826
+P00363,Grzegorz Glik,20,Polish,Poland,Forward,182,79,Right,Porto,14358277
+P00356,Krzysztof Urbański,28,Polish,Poland,Midfielder,179,76,Right,FC Basel,10952936
+P00362,Arkadiusz Zielinski,27,Polish,Poland,Forward,185,79,Right,Sporting CP,7885461
+P00353,Jan Rybus,32,Polish,Poland,Midfielder,173,70,Left,Club Brugge,2666185
+P00347,Krzysztof Grosicki,27,Polish,Poland,Defender,191,76,Right,Malmo FF,5761189
+P00344,Jan Bednarek,29,Polish,Poland,Defender,182,79,Left,Benfica,1867106
+P00358,Jakub Zielinski,25,Polish,Poland,Midfielder,190,81,Right,Arsenal,37809770
+P00364,Krzysztof Milik,23,Polish,Poland,Forward,170,81,Right,Atletico Madrid,8659602
+P00343,Piotr Szymanski,20,Polish,Poland,Defender,184,72,Right,Midtjylland,6807322
+P00351,Robert Swierczok,31,Polish,Poland,Midfielder,185,82,Right,Benfica,17650534
+P00355,Grzegorz Skoras,21,Polish,Poland,Midfielder,178,74,Right,Ajax,6697432
+P00357,Mateusz Kozlowski,25,Polish,Poland,Midfielder,172,73,Right,Bayern Munich,96310144
+P00350,Kamil Jozwiak,24,Polish,Poland,Defender,183,79,Left,Marseille,9705472
+P00361,Jan Kozlowski,25,Polish,Poland,Forward,171,68,Right,RB Salzburg,9090097
+P00352,Piotr Cash,27,Polish,Poland,Midfielder,174,74,Right,RB Leipzig,81075176
+P00348,Mateusz Frankowski,31,Polish,Poland,Defender,184,78,Left,Feyenoord,10570804
+P00339,Robert Zielinski,28,Polish,Poland,Goalkeeper,186,81,Right,AC Milan,1713925
+P00341,Jan Milik,33,Polish,Poland,Goalkeeper,189,81,Right,Copenhagen,1755377
+P00755,Leon Antonio,24,Jamaican,Jamaica,Goalkeeper,190,77,Right,Monterrey,2650518
+P00766,Alvas Holness,27,Jamaican,Jamaica,Defender,182,77,Left,New York Red Bulls,38859688
+P00765,Shamar Gordon,27,Jamaican,Jamaica,Defender,178,80,Right,Toronto FC,19568919
+P00778,Andre Antonio,25,Jamaican,Jamaica,Forward,171,73,Right,CF Montreal,6791595
+P00779,Damion Gray,21,Jamaican,Jamaica,Forward,186,75,Right,Inter Miami,13429232
+P00773,Adrian Rodrigues,24,Jamaican,Jamaica,Midfielder,185,76,Right,LAFC,4759435
+P00768,Michail McCarey,26,Jamaican,Jamaica,Midfielder,185,76,Right,Plaza Amador,18781161
+P00772,Kasey Williams,30,Jamaican,Jamaica,Midfielder,176,75,Right,Monterrey,2656619
+P00762,Damion Marshall,28,Jamaican,Jamaica,Defender,179,75,Right,LA Galaxy,17989095
+P00764,Adrian Simpson,29,Jamaican,Jamaica,Defender,181,76,Left,New York Red Bulls,5729437
+P00771,Damion Bishop,26,Jamaican,Jamaica,Midfielder,179,74,Right,Tauro FC,10030773
+P00776,Michail Williams,24,Jamaican,Jamaica,Forward,178,81,Left,Forge FC,13530722
+P00775,Leon Bishop,20,Jamaican,Jamaica,Forward,170,78,Left,Vancouver Whitecaps,27670378
+P00763,Kasey Dickinson,26,Jamaican,Jamaica,Defender,186,77,Left,Tigres UANL,26129379
+P00759,Michail Pinnock,25,Jamaican,Jamaica,Defender,184,73,Right,Toronto FC,23832643
+P00758,Leon Lowe,21,Jamaican,Jamaica,Defender,187,81,Right,Tauro FC,43256708
+P00777,Bobby Rodrigues,26,Jamaican,Jamaica,Forward,183,84,Left,Toronto FC,13069824
+P00780,Kasey Hector,21,Jamaican,Jamaica,Forward,183,71,Right,New York Red Bulls,47747860
+P00767,Leon Grant,27,Jamaican,Jamaica,Midfielder,181,77,Right,Club America,8313229
+P00774,Shamar Antonio,30,Jamaican,Jamaica,Midfielder,182,76,Left,Forge FC,24568771
+P00761,Andre Johnson,28,Jamaican,Jamaica,Defender,180,72,Left,Plaza Amador,7581510
+P00770,Andre Ricketts,23,Jamaican,Jamaica,Midfielder,180,81,Right,CF Montreal,41343699
+P00769,Bobby Lambert,27,Jamaican,Jamaica,Midfielder,186,78,Left,New York Red Bulls,3186778
+P00760,Bobby Lawrence,24,Jamaican,Jamaica,Defender,180,73,Right,Toronto FC,1792743
+P00756,Michail Gray,27,Jamaican,Jamaica,Goalkeeper,189,82,Left,Inter Miami,23723229
+P00757,Bobby Hector,27,Jamaican,Jamaica,Goalkeeper,189,78,Right,Plaza Amador,40466205
+P00211,Ivan Kramaric,29,Croatian,Croatia,Goalkeeper,188,79,Left,Copenhagen,2779795
+P00213,Mateo Pasalic,24,Croatian,Croatia,Defender,188,80,Right,Red Star Belgrade,9204134
+P00214,Ivan Gvardiol,18,Croatian,Croatia,Defender,184,83,Right,Lech Poznan,16864918
+P00218,Andrej Sutalo,26,Croatian,Croatia,Defender,178,70,Right,Arsenal,4072876
+P00233,Josko Brozovic,21,Croatian,Croatia,Forward,168,74,Right,Manchester City,6592729
+P00227,Andrej Bajkovic,24,Croatian,Croatia,Midfielder,181,79,Right,Dinamo Zagreb,52215871
+P00224,Marcelo Petkovic,25,Croatian,Croatia,Midfielder,173,73,Right,RB Salzburg,29721743
+P00232,Marcelo Kovacic,22,Croatian,Croatia,Forward,186,75,Left,Borussia Dortmund,3603664
+P00225,Josko Musah,29,Croatian,Croatia,Midfielder,176,70,Right,Young Boys,6461488
+P00220,Ante Budimir,27,Croatian,Croatia,Defender,182,72,Right,Copenhagen,27467875
+P00216,Josko Bradaric,29,Croatian,Croatia,Defender,184,75,Right,FC Basel,111698546
+P00217,Dominik Juranovic,32,Croatian,Croatia,Defender,186,78,Right,Anderlecht,6227584
+P00222,Mateo Stanisic,19,Croatian,Croatia,Midfielder,183,78,Right,Red Star Belgrade,47105569
+P00228,Mario Kovacic,27,Croatian,Croatia,Midfielder,180,79,Right,Dinamo Zagreb,8564613
+P00234,Dominik Kramaric,29,Croatian,Croatia,Forward,174,68,Right,Midtjylland,190657094
+P00215,Marcelo Lovren,29,Croatian,Croatia,Defender,186,76,Right,Barcelona,2665615
+P00212,Luka Vlasic,25,Croatian,Croatia,Defender,181,72,Right,Bayer Leverkusen,13905350
+P00221,Luka Barisic,26,Croatian,Croatia,Midfielder,177,72,Right,Grasshoppers,12894686
+P00229,Luka Musah,25,Croatian,Croatia,Forward,179,76,Right,RB Leipzig,23212847
+P00230,Mateo Kljulanovic,31,Croatian,Croatia,Forward,188,79,Right,Young Boys,4802810
+P00231,Ivan Bajkovic,23,Croatian,Croatia,Forward,178,78,Right,Inter Milan,9333358
+P00219,Mario Ivanusec,19,Croatian,Croatia,Defender,180,66,Right,Bayern Munich,3473792
+P00223,Ivan Erlic,20,Croatian,Croatia,Midfielder,177,70,Left,Red Star Belgrade,2030836
+P00226,Dominik Kljulanovic,26,Croatian,Croatia,Midfielder,174,76,Right,Benfica,13856929
+P00210,Mateo Brozovic,20,Croatian,Croatia,Goalkeeper,188,76,Right,Roma,74193816
+P00209,Luka Kovacic,34,Croatian,Croatia,Goalkeeper,192,79,Right,Juventus,1103256
+P00417,Andriy Zinchenko,24,Ukrainian,Ukraine,Goalkeeper,190,77,Right,Club Brugge,3408608
+P00438,Oleksandr Bondarenko,18,Ukrainian,Ukraine,Forward,182,76,Left,Ajax,17399028
+P00426,Yevhen Yaremchuk,27,Ukrainian,Ukraine,Defender,181,80,Right,RB Salzburg,1325273
+P00441,Artem Tsygankov,26,Ukrainian,Ukraine,Forward,185,78,Left,Malmo FF,6072139
+P00440,Viktor Zinchenko,21,Ukrainian,Ukraine,Forward,185,77,Right,Atletico Madrid,4020522
+P00428,Oleksiy Sobol,27,Ukrainian,Ukraine,Defender,185,82,Left,Red Star Belgrade,6835064
+P00442,Ruslan Sudakov,26,Ukrainian,Ukraine,Forward,172,75,Right,Copenhagen,6627388
+P00435,Yevhen Kryvtsov,24,Ukrainian,Ukraine,Midfielder,181,74,Right,Bayern Munich,82721909
+P00420,Andriy Dovbyk,31,Ukrainian,Ukraine,Defender,188,82,Right,AIK,3806096
+P00423,Viktor Karavaev,24,Ukrainian,Ukraine,Defender,185,81,Right,Dinamo Zagreb,23458810
+P00434,Ruslan Bondarenko,28,Ukrainian,Ukraine,Midfielder,183,75,Right,PSV Eindhoven,11638963
+P00421,Oleksandr Shaparenko,26,Ukrainian,Ukraine,Defender,191,81,Left,Atletico Madrid,10340840
+P00429,Andriy Bushchan,22,Ukrainian,Ukraine,Midfielder,184,82,Right,Rapid Vienna,10807720
+P00439,Mykhailo Kryvtsov,18,Ukrainian,Ukraine,Forward,182,72,Right,Manchester United,8479911
+P00427,Dmytro Kovalenko,29,Ukrainian,Ukraine,Defender,179,79,Right,Bayern Munich,2306483
+P00432,Viktor Stepanenko,31,Ukrainian,Ukraine,Midfielder,182,76,Left,Ajax,6975724
+P00437,Andriy Bolbat,27,Ukrainian,Ukraine,Forward,169,73,Left,Galatasaray,9508104
+P00436,Dmytro Zinchenko,26,Ukrainian,Ukraine,Midfielder,171,70,Right,AC Milan,33936030
+P00422,Mykhailo Zabarnyi,34,Ukrainian,Ukraine,Defender,178,70,Right,Tottenham,57440247
+P00424,Artem Lunin,22,Ukrainian,Ukraine,Defender,180,71,Right,Paris Saint-Germain,1917150
+P00430,Oleksandr Sydorchuk,22,Ukrainian,Ukraine,Midfielder,175,76,Right,Tottenham,13869319
+P00431,Mykhailo Besedin,21,Ukrainian,Ukraine,Midfielder,180,70,Left,Partizan,1772808
+P00433,Artem Bolbat,27,Ukrainian,Ukraine,Midfielder,172,74,Left,Paris Saint-Germain,2699796
+P00425,Ruslan Makarenko,30,Ukrainian,Ukraine,Defender,190,81,Right,Sporting CP,6794162
+P00419,Mykhailo Sudakov,39,Ukrainian,Ukraine,Goalkeeper,185,82,Right,Anderlecht,82306689
+P00418,Oleksandr Tsygankov,27,Ukrainian,Ukraine,Goalkeeper,184,76,Right,Real Madrid,3277200
+P00963,Eldor Rashidov,26,Uzbek,Uzbekistan,Goalkeeper,192,77,Left,Al-Hilal,15152057
+P00970,Dostonbek Abdurakhmanov,32,Uzbek,Uzbekistan,Defender,185,77,Right,Esteghlal,10411003
+P00967,Sardor Zakirov,22,Uzbek,Uzbekistan,Defender,175,69,Right,Pakhtakor,3231483
+P00984,Sardor Nematov,28,Uzbek,Uzbekistan,Forward,179,69,Right,Kawasaki Frontale,19914626
+P00976,Sardor Holmatov,22,Uzbek,Uzbekistan,Midfielder,176,73,Right,Erbil SC,22796965
+P00969,Jaloliddin Tursunov,25,Uzbek,Uzbekistan,Defender,194,79,Right,Bunyodkor,34382763
+P00986,Jaloliddin Rashidov,31,Uzbek,Uzbekistan,Forward,183,81,Right,Al-Ittihad,63199784
+P00978,Jaloliddin Sobirov,22,Uzbek,Uzbekistan,Midfielder,177,72,Right,Pakhtakor,41807913
+P00981,Azizbek Sattorov,30,Uzbek,Uzbekistan,Midfielder,182,80,Left,Esteghlal,17342406
+P00987,Dostonbek Kobilov,26,Uzbek,Uzbekistan,Forward,181,81,Right,Erbil SC,4081032
+P00971,Husniddin Umarov,24,Uzbek,Uzbekistan,Defender,187,77,Left,Pakhtakor,13636084
+P00988,Husniddin Nasrullaev,33,Uzbek,Uzbekistan,Forward,182,74,Right,Western Sydney Wanderers,10444601
+P00980,Husniddin Nematov,23,Uzbek,Uzbekistan,Midfielder,169,68,Right,Al-Ahli,11610416
+P00968,Otabek Yoldoshev,20,Uzbek,Uzbekistan,Defender,182,76,Right,Melbourne City,16247150
+P00972,Azizbek Yusupov,24,Uzbek,Uzbekistan,Defender,175,80,Right,Western Sydney Wanderers,3600924
+P00977,Otabek Karimov,23,Uzbek,Uzbekistan,Midfielder,180,73,Right,Esteghlal,9505167
+P00983,Eldor Kenjayev,30,Uzbek,Uzbekistan,Forward,171,70,Left,Bunyodkor,32391095
+P00975,Eldor Miralimov,23,Uzbek,Uzbekistan,Midfielder,184,78,Left,Yokohama F. Marinos,52866669
+P00966,Eldor Hamrobekov,25,Uzbek,Uzbekistan,Defender,182,75,Right,Al-Shorta,3268779
+P00985,Otabek Sattorov,35,Uzbek,Uzbekistan,Forward,182,73,Left,Persepolis,6863884
+P00974,Jasurbek Alijanov,27,Uzbek,Uzbekistan,Defender,184,73,Right,Kawasaki Frontale,8835044
+P00979,Dostonbek Kenjayev,24,Uzbek,Uzbekistan,Midfielder,179,78,Right,Urawa Red Diamonds,2354129
+P00973,Bobir Eshmurodov,34,Uzbek,Uzbekistan,Defender,185,82,Right,Al-Hilal,9028015
+P00982,Bobir Rashidov,24,Uzbek,Uzbekistan,Midfielder,189,78,Right,Ulsan HD,5280961
+P00964,Sardor Kobilov,33,Uzbek,Uzbekistan,Goalkeeper,191,77,Left,Al-Ittihad,1343280
+P00965,Otabek Nasrullaev,32,Uzbek,Uzbekistan,Goalkeeper,195,83,Right,Yokohama F. Marinos,15572962
+P00600,Moises Mena,32,Ecuadorian,Ecuador,Goalkeeper,185,80,Right,Racing Club,2372868
+P00622,Angel Caicedo,33,Ecuadorian,Ecuador,Forward,183,77,Left,Santos,9796848
+P00607,Sebastian Angulo,28,Ecuadorian,Ecuador,Defender,184,74,Right,Emelec,27397336
+P00609,Felix Rodriguez,23,Ecuadorian,Ecuador,Defender,188,76,Right,LDU Quito,13324465
+P00618,Felix Caicedo,28,Ecuadorian,Ecuador,Midfielder,183,73,Right,River Plate,18506943
+P00605,Angel Plata,30,Ecuadorian,Ecuador,Defender,175,73,Left,Nacional,12127028
+P00610,Jackson Canga,27,Ecuadorian,Ecuador,Defender,194,82,Right,Atletico Nacional,11867067
+P00612,Moises Minda,27,Ecuadorian,Ecuador,Midfielder,178,75,Right,Sao Paulo,2861183
+P00614,Angel Intriago,25,Ecuadorian,Ecuador,Midfielder,177,71,Right,Universidad de Chile,2782419
+P00606,Gonzalo Ramirez,23,Ecuadorian,Ecuador,Defender,197,84,Right,Palmeiras,50755642
+P00602,Enner Hincapie,24,Ecuadorian,Ecuador,Defender,183,76,Right,Palmeiras,18320744
+P00623,Gonzalo Mena,24,Ecuadorian,Ecuador,Forward,169,71,Right,Deportivo Cali,6679419
+P00611,Enner Ibarra,29,Ecuadorian,Ecuador,Midfielder,175,72,Left,Universidad de Chile,7904747
+P00604,Pervis Gruezo,28,Ecuadorian,Ecuador,Defender,188,77,Right,Santos,2132342
+P00624,Sebastian Preciado,22,Ecuadorian,Ecuador,Forward,187,77,Right,Emelec,7834863
+P00603,Moises Torres,30,Ecuadorian,Ecuador,Defender,192,75,Left,Sao Paulo,12280463
+P00608,Diego Pacho,30,Ecuadorian,Ecuador,Defender,189,81,Left,Nacional,19904950
+P00619,Enner Zapata,23,Ecuadorian,Ecuador,Forward,175,76,Left,Gremio,10194346
+P00613,Pervis Palacios,27,Ecuadorian,Ecuador,Midfielder,178,76,Right,Flamengo,22315224
+P00616,Sebastian Pellerano,32,Ecuadorian,Ecuador,Midfielder,179,73,Right,Universidad de Chile,25621571
+P00615,Gonzalo Zapata,22,Ecuadorian,Ecuador,Midfielder,183,76,Right,Nacional,2622278
+P00621,Pervis Molina,24,Ecuadorian,Ecuador,Forward,177,75,Left,Boca Juniors,9231927
+P00620,Moises Pellerano,24,Ecuadorian,Ecuador,Forward,180,75,Left,Sao Paulo,54777171
+P00617,Diego Molina,24,Ecuadorian,Ecuador,Midfielder,186,83,Right,LDU Quito,7288152
+P00601,Pervis Preciado,30,Ecuadorian,Ecuador,Goalkeeper,190,75,Right,Palmeiras,5179337
+P00599,Enner Caicedo,30,Ecuadorian,Ecuador,Goalkeeper,185,74,Right,Penarol,5481490
+P00079,Harry Bellingham,33,English,England,Goalkeeper,190,80,Right,Chelsea,16141143
+P00084,Phil Walker,30,English,England,Defender,184,82,Left,Barcelona,2890294
+P00082,Harry Rice,18,English,England,Defender,183,75,Right,Osijek,6394802
+P00095,Declan Watkins,32,English,England,Midfielder,178,77,Left,Grasshoppers,8284492
+P00096,Marcus Chilwell,32,English,England,Midfielder,181,74,Left,FC Basel,121097496
+P00087,Marcus Mount,30,English,England,Defender,175,71,Right,Manchester City,1029642
+P00089,John Palmer,32,English,England,Defender,186,76,Left,Liverpool,25467909
+P00099,Harry Watkins,25,English,England,Forward,180,74,Right,Malmo FF,3386537
+P00097,Jack White,35,English,England,Midfielder,174,82,Right,Paris Saint-Germain,16431011
+P00100,Jude Chilwell,26,English,England,Forward,194,80,Left,Arsenal,51186750
+P00093,Phil Eze,33,English,England,Midfielder,171,68,Right,Rapid Vienna,6694892
+P00094,Bukayo Ramsdale,18,English,England,Midfielder,186,81,Right,Tottenham,9656375
+P00091,Harry Phillips,24,English,England,Midfielder,181,77,Left,Anderlecht,2621838
+P00090,Kyle Gallagher,28,English,England,Defender,191,79,Left,Manchester United,3175537
+P00092,Jude Maddison,30,English,England,Midfielder,176,67,Right,Partizan,3020416
+P00098,John Bellingham,29,English,England,Midfielder,185,78,Right,Marseille,12779416
+P00085,Bukayo Alexander-Arnold,20,English,England,Defender,186,76,Right,Napoli,5320640
+P00102,Bukayo Bellingham,26,English,England,Forward,185,72,Right,Bayer Leverkusen,15039578
+P00088,Jack Toney,31,English,England,Defender,181,78,Left,Liverpool,1705330
+P00086,Declan Trippier,27,English,England,Defender,192,83,Right,Liverpool,43960854
+P00103,Declan Saka,27,English,England,Forward,186,77,Left,Partizan,11207709
+P00104,Marcus Rashford,31,English,England,Forward,174,68,Right,Club Brugge,15799908
+P00101,Phil White,23,English,England,Forward,186,76,Right,Feyenoord,39029914
+P00083,Jude Grealish,23,English,England,Defender,181,68,Left,FC Basel,42246372
+P00080,Jude Saka,33,English,England,Goalkeeper,192,78,Right,Copenhagen,2995060
+P00081,Phil Rashford,34,English,England,Goalkeeper,197,78,Left,Copenhagen,1700087
+P00911,Mathew Mooy,25,Australian,Australia,Goalkeeper,191,83,Left,Melbourne City,836742
+P00927,Ajdin Jones,27,Australian,Australia,Midfielder,179,79,Left,Yokohama F. Marinos,1579010
+P00924,Aaron Metcalfe,26,Australian,Australia,Midfielder,185,78,Left,Melbourne City,31173317
+P00921,Craig Borges,23,Australian,Australia,Defender,182,76,Right,Al-Ahli,3511456
+P00914,Mathew Behich,24,Australian,Australia,Defender,185,77,Left,Western Sydney Wanderers,130568810
+P00932,Aaron Wright,23,Australian,Australia,Forward,185,76,Right,Ulsan HD,13009748
+P00929,Awer Vukovic,24,Australian,Australia,Midfielder,168,73,Right,Al-Sadd,17417040
+P00935,Ajdin Souttar,27,Australian,Australia,Forward,180,69,Left,Jeonbuk Hyundai,25297087
+P00920,Awer Tilio,20,Australian,Australia,Defender,182,76,Left,Western Sydney Wanderers,1334870
+P00923,Mathew Boyle,26,Australian,Australia,Midfielder,167,73,Right,Al-Hilal,14075716
+P00928,Keanu Wright,18,Australian,Australia,Midfielder,183,74,Left,Urawa Red Diamonds,15846650
+P00933,Jackson Vukovic,24,Australian,Australia,Forward,164,65,Left,Al-Nassr,28754254
+P00930,Craig Mooy,32,Australian,Australia,Midfielder,183,85,Right,Al-Ahli,2299362
+P00922,Mat Cummins,25,Australian,Australia,Defender,176,76,Right,Al-Ittihad,17170646
+P00919,Keanu McGree,31,Australian,Australia,Defender,179,66,Right,Al-Shorta,3959383
+P00926,Harry King,25,Australian,Australia,Midfielder,186,76,Right,Jeonbuk Hyundai,10271107
+P00936,Keanu Duke,21,Australian,Australia,Forward,178,67,Right,Sydney FC,45031610
+P00916,Jackson Baccus,32,Australian,Australia,Defender,196,84,Right,Erbil SC,5408709
+P00918,Ajdin Rogic,23,Australian,Australia,Defender,179,76,Right,Al-Sadd,7437631
+P00934,Harry Mooy,22,Australian,Australia,Forward,190,78,Right,Al-Hilal,53766198
+P00915,Aaron Goodwin,23,Australian,Australia,Defender,183,74,Left,Pohang Steelers,6639159
+P00917,Harry Leckie,32,Australian,Australia,Defender,191,80,Right,Erbil SC,98450406
+P00925,Jackson Kusini,29,Australian,Australia,Midfielder,180,75,Right,Western Sydney Wanderers,1956077
+P00931,Mathew Jones,25,Australian,Australia,Forward,181,75,Right,Al-Ahli,9649662
+P00913,Jackson Duke,23,Australian,Australia,Goalkeeper,188,81,Left,Yokohama F. Marinos,2038054
+P00912,Aaron Souttar,28,Australian,Australia,Goalkeeper,182,77,Left,Ulsan HD,8434271
+P00002,Antoine Tchouameni,29,French,France,Goalkeeper,190,84,Right,Anderlecht,53959475
+P00014,Antoine Saliba,28,French,France,Midfielder,184,78,Right,Osijek,17554435
+P00015,Ousmane Konate,22,French,France,Midfielder,177,76,Right,Porto,4399784
+P00018,Theo Mukiele,18,French,France,Midfielder,178,74,Right,Red Star Belgrade,51401700
+P00009,Theo Varane,29,French,France,Defender,188,81,Right,RB Salzburg,43758955
+P00025,Eduardo Tchouameni,28,French,France,Forward,186,78,Right,Anderlecht,9165626
+P00008,Eduardo Sissoko,22,French,France,Defender,176,76,Right,Galatasaray,3056356
+P00023,Ousmane Todibo,24,French,France,Forward,182,79,Right,Barcelona,23420128
+P00026,Theo Hernandez,33,French,France,Forward,181,72,Right,Grasshoppers,8331439
+P00017,Eduardo Olise,22,French,France,Midfielder,174,71,Right,Arsenal,3760393
+P00011,Randal Diarra,26,French,France,Defender,189,80,Left,Benfica,2897170
+P00019,Lucas Todibo,31,French,France,Midfielder,184,69,Right,Paris Saint-Germain,31444197
+P00012,Olivier Badiashile,24,French,France,Defender,185,73,Left,Young Boys,10428093
+P00024,Aurelien Griezmann,26,French,France,Forward,182,75,Right,Napoli,7661606
+P00021,Kylian Olise,22,French,France,Forward,175,73,Right,Napoli,13994073
+P00016,Aurelien Thuram,27,French,France,Midfielder,180,75,Right,Red Star Belgrade,13339861
+P00020,Randal Griezmann,20,French,France,Midfielder,175,73,Left,PSV Eindhoven,80603351
+P00004,Kylian Camavinga,27,French,France,Defender,183,80,Right,Bayer Leverkusen,3795900
+P00005,Antoine Kounde,24,French,France,Defender,188,79,Right,Borussia Dortmund,21832889
+P00010,Lucas Pavard,23,French,France,Defender,183,81,Right,AIK,2280387
+P00022,Antoine Mukiele,23,French,France,Forward,185,78,Left,Liverpool,1745271
+P00013,Kylian Maignan,27,French,France,Midfielder,173,68,Left,Borussia Dortmund,5499220
+P00006,Ousmane Upamecano,25,French,France,Defender,185,74,Left,Bayern Munich,3260134
+P00007,Aurelien Rabiot,25,French,France,Defender,184,76,Right,Midtjylland,21875188
+P00001,Kylian Griezmann,24,French,France,Goalkeeper,191,81,Right,PSV Eindhoven,16574124
+P00003,Ousmane Hernandez,24,French,France,Goalkeeper,191,77,Right,Besiktas,4935397
+P00886,Firas Al-Shahrani,28,Saudi,Saudi Arabia,Goalkeeper,196,82,Right,Western Sydney Wanderers,4045511
+P00906,Firas Al-Salem,24,Saudi,Saudi Arabia,Forward,168,70,Right,Al-Duhail,29501447
+P00903,Hassan Al-Qahtani,32,Saudi,Saudi Arabia,Midfielder,187,82,Right,Esteghlal,13588719
+P00889,Firas Al-Amri,23,Saudi,Saudi Arabia,Defender,184,78,Right,Erbil SC,4543864
+P00897,Salem Al-Tambakti,28,Saudi,Saudi Arabia,Midfielder,179,76,Right,Kawasaki Frontale,46218977
+P00901,Mohammed Al-Rubaie,25,Saudi,Saudi Arabia,Midfielder,180,72,Left,Bunyodkor,138466809
+P00908,Yasser Al-Buraikan,24,Saudi,Saudi Arabia,Forward,176,70,Right,Al-Shorta,6764595
+P00892,Mohammed Al-Breik,23,Saudi,Saudi Arabia,Defender,189,82,Right,Al-Sadd,38840218
+P00905,Salem Al-Rubaie,31,Saudi,Saudi Arabia,Forward,174,76,Right,Al-Ittihad,6875054
+P00895,Ali Al-Ghannam,33,Saudi,Saudi Arabia,Defender,180,72,Right,Jeonbuk Hyundai,10818260
+P00904,Ali Al-Buraikan,24,Saudi,Saudi Arabia,Midfielder,182,76,Right,Melbourne City,147161557
+P00902,Abdulrahman Al-Salem,23,Saudi,Saudi Arabia,Midfielder,178,74,Right,Yokohama F. Marinos,5305677
+P00893,Abdulrahman Al-Hamdan,24,Saudi,Saudi Arabia,Defender,185,78,Right,Al-Nassr,3454981
+P00888,Salem Al-Faraj,18,Saudi,Saudi Arabia,Defender,181,73,Right,Kawasaki Frontale,1861876
+P00909,Mohammed Al-Shahrani,27,Saudi,Saudi Arabia,Forward,171,74,Right,Erbil SC,49821661
+P00910,Abdulrahman Al-Otaibi,34,Saudi,Saudi Arabia,Forward,177,69,Right,Yokohama F. Marinos,28916545
+P00900,Yasser Al-Harbi,23,Saudi,Saudi Arabia,Midfielder,175,71,Right,Al-Shorta,23086576
+P00891,Yasser Al-Owais,22,Saudi,Saudi Arabia,Defender,184,77,Right,Al-Shorta,2896502
+P00894,Hassan Al-Zahrani,30,Saudi,Saudi Arabia,Defender,183,73,Right,Persepolis,29426078
+P00890,Saleh Al-Ghamdi,25,Saudi,Saudi Arabia,Defender,184,82,Right,Jeonbuk Hyundai,2298457
+P00898,Firas Al-Yami,22,Saudi,Saudi Arabia,Midfielder,175,78,Left,Sydney FC,61456330
+P00907,Saleh Al-Qahtani,23,Saudi,Saudi Arabia,Forward,168,68,Right,Kawasaki Frontale,200000000
+P00899,Saleh Al-Abdulkarim,28,Saudi,Saudi Arabia,Midfielder,173,67,Right,Al-Sadd,2584749
+P00896,Sultan Al-Mousa,25,Saudi,Saudi Arabia,Defender,187,77,Right,Western Sydney Wanderers,2301959
+P00887,Saleh Al-Otaibi,34,Saudi,Saudi Arabia,Goalkeeper,192,78,Right,Pakhtakor,3736086
+P00885,Salem Al-Buraikan,25,Saudi,Saudi Arabia,Goalkeeper,188,69,Left,Melbourne City,14754841
+P00548,Arturo Brereton,25,Chilean,Chile,Goalkeeper,188,75,Right,Millonarios,8358117
+P00565,Jean Delgado,29,Chilean,Chile,Midfielder,188,80,Right,Colo-Colo,15433298
+P00554,Erick Mena,24,Chilean,Chile,Defender,181,81,Right,Emelec,7915920
+P00560,Arturo Fuentes,18,Chilean,Chile,Midfielder,189,82,Right,Santos,12427351
+P00561,Gary Villanueva,26,Chilean,Chile,Midfielder,176,74,Right,Universidad de Chile,80331857
+P00550,Alexis Pulgar,26,Chilean,Chile,Defender,188,76,Right,Santos,3209598
+P00558,Claudio Pavez,21,Chilean,Chile,Defender,185,78,Left,Atletico Nacional,2942422
+P00569,Gary Delgado,23,Chilean,Chile,Forward,188,82,Left,LDU Quito,20735451
+P00562,Ben Castillo,34,Chilean,Chile,Midfielder,181,74,Right,Deportivo Cali,7537732
+P00567,Alexis Valdivia,31,Chilean,Chile,Forward,186,76,Right,Universidad de Chile,28337354
+P00571,Erick Brereton,19,Chilean,Chile,Forward,190,79,Right,Barcelona SC,3636712
+P00570,Ben Vidal,27,Chilean,Chile,Forward,183,82,Right,Nacional,5584113
+P00552,Gary Diaz,26,Chilean,Chile,Defender,187,75,Right,Colo-Colo,2946622
+P00555,Mauricio Montes,26,Chilean,Chile,Defender,188,78,Right,Millonarios,1937860
+P00566,Paulo Vidal,28,Chilean,Chile,Midfielder,184,73,Left,Penarol,56292910
+P00568,Arturo Riquelme,23,Chilean,Chile,Forward,170,72,Right,Barcelona SC,6789709
+P00553,Ben Sierralta,32,Chilean,Chile,Defender,186,70,Left,Atletico Nacional,7343287
+P00556,Jean Zavala,19,Chilean,Chile,Defender,189,80,Left,River Plate,5994715
+P00572,Mauricio Isla,17,Chilean,Chile,Forward,175,76,Right,Flamengo,2523097
+P00563,Erick Valdivia,28,Chilean,Chile,Midfielder,182,73,Right,River Plate,6417752
+P00551,Arturo Aranguiz,19,Chilean,Chile,Defender,185,78,Right,Millonarios,753176
+P00559,Alexis Lasarte,31,Chilean,Chile,Midfielder,171,69,Right,Deportivo Cali,22529469
+P00557,Paulo Albornoz,25,Chilean,Chile,Defender,183,78,Right,Barcelona SC,9884882
+P00564,Mauricio Riquelme,29,Chilean,Chile,Midfielder,168,74,Right,Penarol,10000275
+P00547,Alexis Vidal,27,Chilean,Chile,Goalkeeper,188,77,Right,Emelec,2045241
+P00549,Gary Isla,25,Chilean,Chile,Goalkeeper,188,77,Right,Millonarios,2319927
+P00705,Cyle Buchanan,25,Canadian,Canada,Goalkeeper,198,83,Left,LA Galaxy,1505463
+P00715,Alphonso Wotherspoon,30,Canadian,Canada,Midfielder,181,78,Right,Tigres UANL,25297508
+P00723,Alphonso Piette,20,Canadian,Canada,Forward,171,66,Left,Tauro FC,28828751
+P00724,Jonathan Zator,24,Canadian,Canada,Forward,183,72,Left,Vancouver Whitecaps,11856259
+P00710,Alistair Fraser,28,Canadian,Canada,Defender,172,74,Left,Plaza Amador,3184675
+P00713,Liam Cornelius,29,Canadian,Canada,Defender,191,79,Right,Cruz Azul,3772308
+P00711,Tajon Utoikamanu,32,Canadian,Canada,Defender,183,81,Left,Toronto FC,20857491
+P00707,Jonathan Adekugbe,25,Canadian,Canada,Defender,183,75,Right,Vancouver Whitecaps,44729214
+P00721,Sam James,28,Canadian,Canada,Midfielder,185,82,Right,Guadalajara,103774107
+P00728,Tajon Buchanan,26,Canadian,Canada,Forward,178,71,Right,Guadalajara,10682047
+P00722,Liam David,29,Canadian,Canada,Midfielder,173,75,Right,Cruz Azul,3368297
+P00726,Stephen David,27,Canadian,Canada,Forward,175,76,Right,Forge FC,18011935
+P00716,Jonathan Cavallini,23,Canadian,Canada,Midfielder,180,75,Left,Club America,18055562
+P00712,Sam Hoilett,28,Canadian,Canada,Defender,189,76,Right,Guadalajara,4761638
+P00727,Alistair Eustaquio,26,Canadian,Canada,Forward,184,80,Right,Atlanta United,14302217
+P00714,Richie Bomba,22,Canadian,Canada,Defender,172,72,Right,Forge FC,40676480
+P00720,Tajon Zator,26,Canadian,Canada,Midfielder,176,72,Right,Vancouver Whitecaps,8214515
+P00708,Cyle Borjan,28,Canadian,Canada,Defender,180,76,Right,Vancouver Whitecaps,13105101
+P00718,Stephen Kennedy,28,Canadian,Canada,Midfielder,182,70,Right,Alajuelense,27335926
+P00717,Cyle Waterman,21,Canadian,Canada,Midfielder,180,75,Right,Guadalajara,19575051
+P00709,Stephen Miller,24,Canadian,Canada,Defender,181,73,Left,Inter Miami,29312349
+P00725,Cyle James,28,Canadian,Canada,Forward,174,71,Right,Vancouver Whitecaps,4326762
+P00706,Alphonso Johnston,24,Canadian,Canada,Defender,184,75,Right,Cruz Azul,13417261
+P00719,Alistair Piette,29,Canadian,Canada,Midfielder,183,76,Right,Guadalajara,5770936
+P00703,Alphonso David,28,Canadian,Canada,Goalkeeper,183,74,Right,Inter Miami,18887406
+P00704,Jonathan Eustaquio,24,Canadian,Canada,Goalkeeper,189,77,Left,Inter Miami,11722842
+P01199,Trezeguet Trezeguet,29,Egyptian,Egypt,Goalkeeper,190,79,Left,Al-Hilal Omdurman,16309244
+P01221,Mostafa Hegazi,18,Egyptian,Egypt,Forward,173,73,Left,ASEC Mimosas,13832244
+P01204,Mostafa Attia,23,Egyptian,Egypt,Defender,191,77,Left,Al Ahly,12783256
+P01213,Mostafa Gomaa,29,Egyptian,Egypt,Midfielder,186,79,Right,Orlando Pirates,8417685
+P01220,Ahmed Marmoush,23,Egyptian,Egypt,Forward,178,71,Right,Raja Casablanca,10120177
+P01200,Mohamed Elneny,28,Egyptian,Egypt,Defender,187,82,Right,Mamelodi Sundowns,36791444
+P01207,Amr Afsha,25,Egyptian,Egypt,Defender,179,72,Right,Kaizer Chiefs,15790032
+P01211,Trezeguet Said,33,Egyptian,Egypt,Midfielder,181,77,Right,Club Africain,52206337
+P01218,Omar Wahbi,28,Egyptian,Egypt,Forward,173,69,Right,Orlando Pirates,4127019
+P01214,Mohamed Wahbi,22,Egyptian,Egypt,Midfielder,186,75,Right,Club Africain,1098385
+P01219,Trezeguet Ibrahim,25,Egyptian,Egypt,Forward,177,67,Right,JS Kabylie,3926086
+P01201,Omar Elsaid,26,Egyptian,Egypt,Defender,186,73,Right,Orlando Pirates,11328687
+P01215,Mahmoud Ibrahim,24,Egyptian,Egypt,Midfielder,176,74,Right,Kaizer Chiefs,29741923
+P01210,Omar Koka,28,Egyptian,Egypt,Midfielder,181,76,Right,ASEC Mimosas,4516690
+P01222,Mohamed Trezeguet,31,Egyptian,Egypt,Forward,172,76,Left,Al-Masry,5832544
+P01203,Ahmed Abdallah,26,Egyptian,Egypt,Defender,191,79,Right,Orlando Pirates,48024333
+P01208,Abdallah El-Shenawy,28,Egyptian,Egypt,Defender,193,82,Right,ASEC Mimosas,16272464
+P01209,Mohamed Hamdi,24,Egyptian,Egypt,Midfielder,182,71,Right,Raja Casablanca,2159322
+P01216,Amr Marmoush,24,Egyptian,Egypt,Midfielder,180,73,Right,JS Kabylie,4857169
+P01205,Mohamed Hassan,21,Egyptian,Egypt,Defender,180,75,Left,Al-Masry,10039095
+P01212,Ahmed El-Sayed,23,Egyptian,Egypt,Midfielder,181,75,Right,Al-Hilal Omdurman,4560327
+P01202,Trezeguet Ashour,25,Egyptian,Egypt,Defender,181,79,Right,Orlando Pirates,2974201
+P01217,Mohamed Gomaa,28,Egyptian,Egypt,Forward,171,74,Right,Orlando Pirates,139805010
+P01206,Mahmoud Soliman,24,Egyptian,Egypt,Defender,178,76,Left,ASEC Mimosas,48073116
+P01198,Omar Hegazi,26,Egyptian,Egypt,Goalkeeper,188,75,Right,MC Alger,5721048
+P01197,Mohamed Marmoush,27,Egyptian,Egypt,Goalkeeper,195,78,Left,Al-Masry,7683864
+P00833,Son Hwang,30,South Korean,South Korea,Goalkeeper,189,78,Right,Persepolis,7601057
+P00848,Jae-sung Yang,25,South Korean,South Korea,Midfielder,183,78,Right,Al-Nassr,5192616
+P00839,Jae-sung Park,30,South Korean,South Korea,Defender,188,78,Left,Yokohama F. Marinos,2156079
+P00854,Hee-chan Choi,29,South Korean,South Korea,Forward,178,72,Left,Urawa Red Diamonds,2752104
+P00841,Hwang Oh,27,South Korean,South Korea,Defender,186,78,Left,Al-Hilal,1404350
+P00858,Hwang Son,30,South Korean,South Korea,Forward,175,69,Right,Al-Duhail,8617782
+P00837,Hee-chan Hwang,28,South Korean,South Korea,Defender,182,77,Right,Pohang Steelers,4928691
+P00843,Young-woo Jeong,28,South Korean,South Korea,Defender,175,74,Right,Al-Nassr,19338949
+P00842,Woo-young Na,22,South Korean,South Korea,Defender,184,71,Right,Erbil SC,2855220
+P00840,In-beom Jung,26,South Korean,South Korea,Defender,182,78,Right,Western Sydney Wanderers,3530364
+P00855,Min-jae Ji,25,South Korean,South Korea,Forward,184,76,Right,Al-Nassr,25300729
+P00849,In-beom Seol,26,South Korean,South Korea,Midfielder,173,72,Left,Bunyodkor,48839443
+P00844,Seung-gyu Lee,25,South Korean,South Korea,Defender,179,76,Right,Pohang Steelers,9845449
+P00846,Hee-chan Kwon,27,South Korean,South Korea,Midfielder,175,71,Right,Bunyodkor,1465140
+P00838,Min-jae Kim,25,South Korean,South Korea,Defender,181,77,Right,Bunyodkor,2197320
+P00845,Son Hong,26,South Korean,South Korea,Midfielder,176,73,Right,Al-Ittihad,96137728
+P00850,Hwang Choi,27,South Korean,South Korea,Midfielder,189,82,Right,Kawasaki Frontale,95444127
+P00856,Jae-sung Hwang,19,South Korean,South Korea,Forward,175,71,Right,Al-Nassr,14730715
+P00851,Woo-young Ji,25,South Korean,South Korea,Midfielder,174,81,Left,Al-Ahli,2923477
+P00857,In-beom Hwang,24,South Korean,South Korea,Forward,186,76,Right,Esteghlal,29418358
+P00853,Son Seol,34,South Korean,South Korea,Forward,173,70,Right,Al-Sadd,3296454
+P00836,Son Lee,25,South Korean,South Korea,Defender,183,77,Left,Urawa Red Diamonds,31503888
+P00847,Min-jae Song,18,South Korean,South Korea,Midfielder,176,77,Right,Al-Duhail,4224877
+P00852,Young-woo Hwang,25,South Korean,South Korea,Midfielder,176,72,Left,Al-Hilal,33531434
+P00834,Hee-chan Hwang,31,South Korean,South Korea,Goalkeeper,196,80,Right,Al-Ahli,4367709
+P00835,Min-jae Son,28,South Korean,South Korea,Goalkeeper,193,81,Left,Pohang Steelers,5585570
+P00157,Kevin Lukaku,24,Belgian,Belgium,Goalkeeper,200,80,Right,Dinamo Zagreb,3240526
+P00161,Romelu Witsel,25,Belgian,Belgium,Defender,174,71,Right,Young Boys,1190477
+P00173,Youri Saelemaekers,19,Belgian,Belgium,Midfielder,176,76,Right,Galatasaray,16406662
+P00179,Eden Lammens,20,Belgian,Belgium,Forward,169,66,Right,AIK,10963868
+P00165,Leander Doku,28,Belgian,Belgium,Defender,184,82,Right,Legia Warsaw,7987412
+P00181,Youri Courtois,25,Belgian,Belgium,Forward,172,71,Right,Manchester United,22523673
+P00169,Kevin Casteels,21,Belgian,Belgium,Midfielder,176,75,Right,AC Milan,8794267
+P00180,Thibaut Lukaku,26,Belgian,Belgium,Forward,185,76,Left,Bayer Leverkusen,18402631
+P00174,Leander Vanheusden,24,Belgian,Belgium,Midfielder,182,75,Right,Lech Poznan,30030290
+P00160,Kevin Tielemans,21,Belgian,Belgium,Defender,185,79,Right,Barcelona,7295290
+P00168,Jason Theate,29,Belgian,Belgium,Defender,191,79,Right,Napoli,35400817
+P00164,Youri Chadli,26,Belgian,Belgium,Defender,180,72,Right,Fenerbahce,10426561
+P00162,Eden Castagne,28,Belgian,Belgium,Defender,186,76,Right,Fenerbahce,4976124
+P00170,Romelu Onana,20,Belgian,Belgium,Midfielder,184,75,Right,Brondby,200000000
+P00166,Axel Bakayoko,28,Belgian,Belgium,Defender,187,76,Left,Borussia Dortmund,6895019
+P00177,Kevin Saelemaekers,32,Belgian,Belgium,Forward,188,74,Right,Manchester City,68271723
+P00175,Axel Lammens,25,Belgian,Belgium,Midfielder,184,78,Right,RB Salzburg,12462735
+P00182,Leander Dendoncker,24,Belgian,Belgium,Forward,164,65,Right,Feyenoord,7717372
+P00176,Thomas Lukaku,21,Belgian,Belgium,Midfielder,180,76,Right,Red Star Belgrade,14362602
+P00171,Eden De Ketelaere,20,Belgian,Belgium,Midfielder,177,73,Left,Club Brugge,17884377
+P00172,Thibaut Faes,21,Belgian,Belgium,Midfielder,171,72,Right,Copenhagen,25320120
+P00178,Romelu Vanheusden,26,Belgian,Belgium,Forward,171,74,Right,Roma,39061788
+P00163,Thibaut Vertonghen,36,Belgian,Belgium,Defender,183,78,Right,Grasshoppers,73113273
+P00167,Thomas Openda,35,Belgian,Belgium,Defender,189,79,Right,Lech Poznan,8461925
+P00158,Romelu Courtois,31,Belgian,Belgium,Goalkeeper,191,82,Right,Club Brugge,5831000
+P00159,Eden Dendoncker,33,Belgian,Belgium,Goalkeeper,191,77,Right,AIK,1950847
+P00235,Granit Shaqiri,31,Swiss,Switzerland,Goalkeeper,194,79,Left,Ajax,3058450
+P00257,Manuel Pfannenstiel,24,Swiss,Switzerland,Forward,179,74,Left,Anderlecht,3640434
+P00243,Stefan Okafor,28,Swiss,Switzerland,Defender,188,77,Right,Juventus,5080142
+P00239,Xherdan Fernandes,28,Swiss,Switzerland,Defender,185,80,Right,RB Leipzig,7989146
+P00258,Yann Shaqiri,22,Swiss,Switzerland,Forward,173,73,Right,Juventus,6267349
+P00250,Yann Blerim,32,Swiss,Switzerland,Midfielder,189,85,Right,AC Milan,73190275
+P00248,Xherdan Aebischer,30,Swiss,Switzerland,Midfielder,182,75,Right,Rapid Vienna,12543362
+P00238,Granit Rodriguez,28,Swiss,Switzerland,Defender,183,76,Right,Ajax,83320085
+P00255,Granit Kobal,23,Swiss,Switzerland,Forward,183,71,Left,Lech Poznan,97999154
+P00245,Remo Jashari,33,Swiss,Switzerland,Defender,185,74,Right,Chelsea,14987372
+P00252,Stefan Mvogo,18,Swiss,Switzerland,Midfielder,180,76,Right,Sporting CP,3743038
+P00253,Fabian Pfannenstiel,21,Swiss,Switzerland,Midfielder,188,82,Right,Bayern Munich,6689149
+P00247,Granit Zakaria,30,Swiss,Switzerland,Midfielder,182,76,Right,Paris Saint-Germain,9211350
+P00259,Ricardo Sommer,30,Swiss,Switzerland,Forward,177,72,Left,Malmo FF,14128461
+P00240,Manuel Seferovic,21,Swiss,Switzerland,Defender,185,77,Left,Anderlecht,3333626
+P00254,Remo Shaqiri,29,Swiss,Switzerland,Midfielder,183,77,Right,Malmo FF,5123179
+P00246,Haris Steiner,31,Swiss,Switzerland,Defender,184,78,Right,Copenhagen,14077436
+P00249,Manuel Rieder,24,Swiss,Switzerland,Midfielder,173,75,Right,Atletico Madrid,35196222
+P00251,Ricardo Kobal,22,Swiss,Switzerland,Midfielder,180,78,Left,FC Basel,7641566
+P00256,Xherdan Mvogo,23,Swiss,Switzerland,Forward,171,67,Right,Marseille,1720821
+P00260,Stefan Zuber,17,Swiss,Switzerland,Forward,184,79,Right,Liverpool,43439068
+P00242,Ricardo Mbabu,32,Swiss,Switzerland,Defender,181,78,Right,Feyenoord,24594680
+P00241,Yann Elvedi,28,Swiss,Switzerland,Defender,180,74,Right,Club Brugge,4022060
+P00244,Fabian Ndoye,29,Swiss,Switzerland,Defender,185,75,Left,Copenhagen,2199411
+P00236,Xherdan Sommer,24,Swiss,Switzerland,Goalkeeper,189,81,Right,Young Boys,24656498
+P00237,Manuel Zuber,27,Swiss,Switzerland,Goalkeeper,186,74,Right,Anderlecht,1122360
+P00859,Mehdi Azmoun,30,Iranian,Iran,Goalkeeper,192,80,Right,Pohang Steelers,8287931
+P00862,Mehdi Hajsafi,25,Iranian,Iran,Defender,176,75,Right,Western Sydney Wanderers,14912558
+P00874,Saman Abdollahzadeh,18,Iranian,Iran,Midfielder,177,74,Right,Sydney FC,15880643
+P00863,Sardar Ansarifard,30,Iranian,Iran,Defender,179,76,Right,Western Sydney Wanderers,4549793
+P00872,Sardar Heydari,32,Iranian,Iran,Midfielder,168,65,Right,Yokohama F. Marinos,56074683
+P00879,Mehdi Hazbavi,24,Iranian,Iran,Forward,185,79,Right,Western Sydney Wanderers,45509303
+P00873,Alireza Shojaei,26,Iranian,Iran,Midfielder,184,72,Right,Bunyodkor,3137889
+P00868,Karim Dejagah,20,Iranian,Iran,Defender,180,70,Right,Esteghlal,5231940
+P00870,Ramin Moharrami,28,Iranian,Iran,Defender,182,74,Left,Al-Duhail,3390937
+P00877,Karim Nourollahi,26,Iranian,Iran,Midfielder,185,77,Left,Al-Ittihad,3577794
+P00881,Alireza Nourollahi,26,Iranian,Iran,Forward,179,70,Left,Pohang Steelers,74708985
+P00875,Hidajat Hazbavi,33,Iranian,Iran,Midfielder,184,79,Left,Sydney FC,13405470
+P00864,Alireza Rezaeian,26,Iranian,Iran,Defender,175,76,Left,Ulsan HD,4465296
+P00867,Ehsan Gholizadeh,29,Iranian,Iran,Defender,187,81,Right,Urawa Red Diamonds,36355311
+P00871,Mehdi Arefi,19,Iranian,Iran,Midfielder,176,72,Left,Urawa Red Diamonds,92416847
+P00878,Morteza Azmoun,36,Iranian,Iran,Midfielder,167,71,Right,Urawa Red Diamonds,3784344
+P00880,Sardar Moradi,21,Iranian,Iran,Forward,181,74,Right,Jeonbuk Hyundai,9398526
+P00876,Ehsan Moradi,18,Iranian,Iran,Midfielder,174,76,Right,Sydney FC,3491803
+P00865,Saman Torabi,32,Iranian,Iran,Defender,185,77,Left,Al-Sadd,50515650
+P00884,Ehsan Hosseini,25,Iranian,Iran,Forward,170,74,Right,Pakhtakor,19080234
+P00883,Hidajat Ghoddos,24,Iranian,Iran,Forward,169,68,Right,Yokohama F. Marinos,92396750
+P00869,Morteza Karimi,28,Iranian,Iran,Defender,189,77,Right,Al-Nassr,9355138
+P00882,Saman Azmoun,26,Iranian,Iran,Forward,174,70,Right,Al-Duhail,22761395
+P00866,Hidajat Noorollahi,23,Iranian,Iran,Defender,181,77,Right,Al-Nassr,12572175
+P00861,Alireza Hosseini,35,Iranian,Iran,Goalkeeper,191,76,Left,Al-Nassr,3954425
+P00860,Sardar Ghoddos,24,Iranian,Iran,Goalkeeper,192,82,Right,Urawa Red Diamonds,13254154
+P00807,Daichi Kubo,24,Japanese,Japan,Goalkeeper,194,85,Right,Persepolis,16748378
+P00832,Junya Kamada,21,Japanese,Japan,Forward,179,71,Right,Melbourne City,7289620
+P00811,Takefusa Tanaka,18,Japanese,Japan,Defender,187,78,Right,Sydney FC,15931408
+P00816,Ao Mori,25,Japanese,Japan,Defender,184,72,Right,Melbourne City,2700538
+P00829,Kaoru Shiotani,29,Japanese,Japan,Forward,169,70,Right,Al-Ittihad,13869063
+P00828,Takefusa Nakano,29,Japanese,Japan,Forward,171,70,Left,Kawasaki Frontale,5063245
+P00830,Wataru Kubo,28,Japanese,Japan,Forward,181,75,Right,Bunyodkor,25035151
+P00824,Junya Nakano,28,Japanese,Japan,Midfielder,177,76,Left,Jeonbuk Hyundai,61618971
+P00821,Kaoru Machida,29,Japanese,Japan,Midfielder,184,71,Right,Urawa Red Diamonds,14835645
+P00827,Daichi Hashioka,32,Japanese,Japan,Forward,185,79,Left,Pakhtakor,46910153
+P00826,Ayase Kubo,25,Japanese,Japan,Midfielder,186,79,Right,Esteghlal,10169896
+P00817,Ayase Suzuki,22,Japanese,Japan,Defender,181,79,Right,Yokohama F. Marinos,4029123
+P00814,Ritsu Ito,24,Japanese,Japan,Defender,183,81,Right,Esteghlal,4329214
+P00822,Wataru Ueda,31,Japanese,Japan,Midfielder,180,77,Right,Kawasaki Frontale,15705102
+P00823,Ritsu Hashioka,28,Japanese,Japan,Midfielder,179,74,Left,Sydney FC,12135137
+P00818,Hiroki Ogawa,33,Japanese,Japan,Defender,188,84,Right,Ulsan HD,33369089
+P00815,Junya Furuhashi,28,Japanese,Japan,Defender,181,70,Left,Al-Nassr,22487898
+P00831,Ritsu Endo,28,Japanese,Japan,Forward,186,79,Left,Al-Sadd,30599047
+P00813,Wataru Itakura,28,Japanese,Japan,Defender,185,75,Right,Jeonbuk Hyundai,13971867
+P00812,Kaoru Yoshida,28,Japanese,Japan,Defender,192,75,Right,Kawasaki Frontale,61680994
+P00825,Ao Shiotani,23,Japanese,Japan,Midfielder,178,73,Right,Melbourne City,2217869
+P00819,Daichi Asano,26,Japanese,Japan,Midfielder,183,75,Right,Pohang Steelers,5075227
+P00810,Daichi Doan,28,Japanese,Japan,Defender,177,72,Right,Western Sydney Wanderers,10590476
+P00820,Takefusa Hatate,27,Japanese,Japan,Midfielder,179,77,Right,Kawasaki Frontale,3853327
+P00808,Takefusa Endo,29,Japanese,Japan,Goalkeeper,189,80,Right,Kawasaki Frontale,1641172
+P00809,Kaoru Kamada,33,Japanese,Japan,Goalkeeper,191,80,Right,Yokohama F. Marinos,16497986
+P00027,Joshua Musiala,27,German,Germany,Goalkeeper,185,80,Right,Arsenal,16147932
+P00047,Joshua Fulle,29,German,Germany,Forward,176,72,Right,Galatasaray,41857821
+P00034,Antonio Gnabry,21,German,Germany,Defender,179,76,Left,Chelsea,5171626
+P00042,Kai Can,24,German,Germany,Midfielder,174,75,Right,Osijek,53991561
+P00039,Joshua Tah,23,German,Germany,Midfielder,176,73,Right,Real Madrid,3362502
+P00044,Nico Volland,25,German,Germany,Midfielder,179,77,Right,Brondby,42603093
+P00036,Leon Sule,25,German,Germany,Defender,186,72,Left,AIK,37122019
+P00037,Florian Brandt,31,German,Germany,Defender,183,75,Right,Rapid Vienna,1573030
+P00043,Antonio Fulle,24,German,Germany,Midfielder,181,85,Right,Juventus,5214898
+P00038,Timo Henrichs,27,German,Germany,Defender,186,81,Right,Sporting CP,2921243
+P00045,Leon Gotze,34,German,Germany,Midfielder,169,70,Left,Manchester City,6709983
+P00046,Florian Musiala,22,German,Germany,Midfielder,175,72,Right,Feyenoord,14187209
+P00048,Jamal Volland,25,German,Germany,Forward,175,73,Right,Club Brugge,8963942
+P00050,Kai Musiala,32,German,Germany,Forward,176,72,Left,Roma,7978270
+P00031,Jamal Goretzka,28,German,Germany,Defender,183,74,Left,Atletico Madrid,1406618
+P00049,Leroy Gotze,25,German,Germany,Forward,179,79,Right,Young Boys,5207627
+P00030,Joshua Rudiger,26,German,Germany,Defender,184,79,Right,Red Star Belgrade,3359673
+P00041,Leroy Klostermann,27,German,Germany,Midfielder,187,74,Right,Juventus,12569783
+P00040,Jamal Koch,24,German,Germany,Midfielder,175,78,Right,Real Madrid,48977955
+P00035,Nico Ginter,24,German,Germany,Defender,183,72,Right,Anderlecht,81562649
+P00051,Antonio Havertz,28,German,Germany,Forward,177,75,Left,Napoli,6559003
+P00052,Nico Schlotterbeck,30,German,Germany,Forward,191,79,Left,RB Salzburg,20389682
+P00033,Kai Neuer,21,German,Germany,Defender,180,72,Left,Bayer Leverkusen,2213941
+P00032,Leroy Werner,29,German,Germany,Defender,184,79,Right,Young Boys,72433298
+P00029,Leroy Schlotterbeck,29,German,Germany,Goalkeeper,195,81,Right,Napoli,11689568
+P00028,Jamal Havertz,23,German,Germany,Goalkeeper,192,81,Right,RB Leipzig,10300842
+P00495,Lionel Alvarez,32,Argentine,Argentina,Goalkeeper,185,73,Left,Universidad de Chile,17252546
+P00505,Nahuel Correa,25,Argentine,Argentina,Defender,179,72,Left,Independiente,35733366
+P00514,Nahuel Alvarez,33,Argentine,Argentina,Midfielder,178,70,Right,Gremio,5725654
+P00500,Emiliano Mac Allister,34,Argentine,Argentina,Defender,184,77,Right,Sao Paulo,16966961
+P00506,Alexis Almada,32,Argentine,Argentina,Defender,189,80,Right,Penarol,2248717
+P00513,Leandro Balerdi,18,Argentine,Argentina,Midfielder,175,75,Right,Gremio,3393700
+P00518,Rodrigo Alvarez,26,Argentine,Argentina,Forward,172,73,Right,Santos,16986081
+P00509,Emiliano Acuna,22,Argentine,Argentina,Midfielder,174,72,Left,Nacional,14807585
+P00520,Angel Di Maria,34,Argentine,Argentina,Forward,173,72,Right,Boca Juniors,51533790
+P00503,Angel Gonzalez,19,Argentine,Argentina,Defender,184,71,Right,Sao Paulo,17544891
+P00512,Angel Garay,25,Argentine,Argentina,Midfielder,174,71,Right,Santos,30125913
+P00519,Lautaro De Paul,29,Argentine,Argentina,Forward,189,78,Right,Palmeiras,25701075
+P00515,Lionel Sosa,25,Argentine,Argentina,Forward,177,71,Right,Nacional,3061692
+P00502,Lautaro Tagliafico,25,Argentine,Argentina,Defender,182,76,Right,Penarol,8808226
+P00511,Lautaro Sosa,26,Argentine,Argentina,Midfielder,175,78,Right,Universidad de Chile,98252427
+P00499,Julian Paredes,25,Argentine,Argentina,Defender,184,77,Right,Sao Paulo,5619560
+P00501,Rodrigo Lo Celso,26,Argentine,Argentina,Defender,183,75,Right,Colo-Colo,58895256
+P00504,Leandro Pezzella,31,Argentine,Argentina,Defender,189,76,Right,River Plate,2073221
+P00507,Lionel Montiel,26,Argentine,Argentina,Midfielder,173,76,Right,Universidad de Chile,13104580
+P00498,Lionel Martinez,22,Argentine,Argentina,Defender,175,76,Right,Penarol,57082413
+P00517,Emiliano Balerdi,24,Argentine,Argentina,Forward,182,75,Right,Penarol,3427516
+P00516,Julian Garay,27,Argentine,Argentina,Forward,186,81,Right,Santos,37433741
+P00510,Rodrigo Fernandez,23,Argentine,Argentina,Midfielder,184,77,Right,Boca Juniors,62184343
+P00508,Julian Dybala,30,Argentine,Argentina,Midfielder,187,77,Right,Colo-Colo,11044877
+P00497,Emiliano Di Maria,31,Argentine,Argentina,Goalkeeper,185,75,Left,Emelec,1185011
+P00496,Julian De Paul,25,Argentine,Argentina,Goalkeeper,189,81,Right,LDU Quito,27041218
+P00392,Cengiz Soyuncu,24,Turkish,Turkey,Goalkeeper,183,74,Right,Juventus,7179235
+P00404,Cengiz Muldur,24,Turkish,Turkey,Midfielder,185,78,Left,Rapid Vienna,7819509
+P00415,Burak Soyuncu,20,Turkish,Turkey,Forward,175,76,Right,Grasshoppers,142059273
+P00397,Caglar Guler,27,Turkish,Turkey,Defender,181,77,Right,Napoli,11061458
+P00399,Enes Celik,23,Turkish,Turkey,Defender,189,80,Left,Bayer Leverkusen,13927073
+P00411,Hakan Cengiz,26,Turkish,Turkey,Forward,179,74,Right,Dinamo Zagreb,13292658
+P00402,Orkun Bayindir,28,Turkish,Turkey,Defender,186,73,Right,Real Madrid,3326762
+P00396,Merih Kokcu,29,Turkish,Turkey,Defender,176,73,Right,Copenhagen,13781172
+P00413,Merih Unal,31,Turkish,Turkey,Forward,179,76,Right,Malmo FF,2791716
+P00414,Caglar Under,30,Turkish,Turkey,Forward,190,79,Right,RB Salzburg,5068248
+P00409,Yusuf Unal,24,Turkish,Turkey,Midfielder,181,77,Right,Lech Poznan,6771021
+P00412,Cengiz Gonul,32,Turkish,Turkey,Forward,175,72,Right,Rapid Vienna,5395874
+P00407,Burak Cengiz,26,Turkish,Turkey,Midfielder,173,75,Left,Napoli,8071447
+P00410,Irfan Under,23,Turkish,Turkey,Midfielder,173,71,Right,Marseille,25143752
+P00406,Caglar Abdul,22,Turkish,Turkey,Midfielder,166,72,Right,Real Madrid,3022793
+P00416,Enes Turan,30,Turkish,Turkey,Forward,185,77,Right,Real Madrid,9410136
+P00400,Yusuf Kilicsoy,34,Turkish,Turkey,Defender,186,75,Right,Feyenoord,16608048
+P00395,Cengiz Kahveci,23,Turkish,Turkey,Defender,191,75,Right,Bayern Munich,11641472
+P00401,Irfan Enes,23,Turkish,Turkey,Defender,174,74,Right,Osijek,15278138
+P00405,Merih Yildiz,28,Turkish,Turkey,Midfielder,179,73,Right,Paris Saint-Germain,6179874
+P00408,Enes Gonul,21,Turkish,Turkey,Midfielder,173,72,Right,Ajax,17444103
+P00403,Hakan Ucar,24,Turkish,Turkey,Midfielder,186,79,Right,Sporting CP,11191363
+P00394,Hakan Yilmaz,24,Turkish,Turkey,Defender,182,81,Right,Osijek,5864063
+P00398,Burak Tufan,31,Turkish,Turkey,Defender,182,78,Left,Inter Milan,1801789
+P00393,Merih Turan,36,Turkish,Turkey,Goalkeeper,191,81,Right,Besiktas,1759890
+P00391,Hakan Under,29,Turkish,Turkey,Goalkeeper,186,78,Right,Roma,2416886
+P00937,Akram Ali,31,Qatari,Qatar,Goalkeeper,188,77,Left,Melbourne City,15320409
+P00946,Ahmed Al-Dosari,18,Qatari,Qatar,Defender,187,76,Right,Kawasaki Frontale,32762108
+P00957,Akram Al-Ahmad,23,Qatari,Qatar,Forward,173,65,Left,Pakhtakor,15104348
+P00941,Almoez Muntari,22,Qatari,Qatar,Defender,180,76,Left,Al-Ahli,34261332
+P00945,Abdelaziz Ismaeel,28,Qatari,Qatar,Defender,187,76,Right,Sydney FC,34162856
+P00951,Hassan Al-Nobi,29,Qatari,Qatar,Midfielder,181,73,Right,Kawasaki Frontale,11060197
+P00949,Akram Mesa,29,Qatari,Qatar,Midfielder,171,71,Right,Persepolis,22108266
+P00944,Karim Barsham,22,Qatari,Qatar,Defender,181,73,Left,Persepolis,5076077
+P00958,Almoez Al-Mohannadi,30,Qatari,Qatar,Forward,180,76,Right,Al-Hilal,8299366
+P00956,Ali Ali,25,Qatari,Qatar,Midfielder,183,76,Right,Al-Ittihad,110809025
+P00955,Ahmed Mahmoud,31,Qatari,Qatar,Midfielder,174,68,Right,Persepolis,6048600
+P00943,Boualem Hasan,23,Qatari,Qatar,Defender,186,81,Right,Al-Hilal,6726357
+P00959,Hassan Mahmoud,17,Qatari,Qatar,Forward,180,81,Right,Bunyodkor,6877224
+P00954,Abdelaziz Al-Mohannadi,30,Qatari,Qatar,Midfielder,179,75,Right,Melbourne City,5416795
+P00950,Almoez Al-Attiyah,27,Qatari,Qatar,Midfielder,173,68,Right,Al-Shorta,5186589
+P00947,Ali Abdelaziz,28,Qatari,Qatar,Defender,189,74,Left,Persepolis,5984115
+P00953,Karim Al-Ahmad,30,Qatari,Qatar,Midfielder,185,76,Right,Esteghlal,6117109
+P00960,Boualem Ali,22,Qatari,Qatar,Forward,176,73,Right,Al-Hilal,4223291
+P00961,Karim Boudiaf,27,Qatari,Qatar,Forward,183,75,Right,Al-Shorta,4758016
+P00962,Abdelaziz Abdulla,24,Qatari,Qatar,Forward,181,77,Left,Al-Hilal,135296723
+P00952,Boualem Moez,28,Qatari,Qatar,Midfielder,173,73,Right,Esteghlal,8425949
+P00948,Mohammed Al-Hammadi,34,Qatari,Qatar,Defender,179,69,Right,Western Sydney Wanderers,13879460
+P00940,Akram Hatem,25,Qatari,Qatar,Defender,182,80,Right,Al-Ittihad,11539569
+P00942,Hassan Pedro,23,Qatari,Qatar,Defender,174,77,Left,Ulsan HD,5050754
+P00939,Hassan Abdulla,22,Qatari,Qatar,Goalkeeper,200,82,Right,Urawa Red Diamonds,10960614
+P00938,Almoez Boudiaf,35,Qatari,Qatar,Goalkeeper,188,76,Right,Yokohama F. Marinos,28513657
+P00729,Keylor Campbell,28,Costa Rican,Costa Rica,Goalkeeper,191,82,Right,Atlanta United,11420312
+P00746,Randal Salas,32,Costa Rican,Costa Rica,Midfielder,171,68,Right,Tigres UANL,12494006
+P00739,Oscar Chacon,29,Costa Rican,Costa Rica,Defender,177,79,Right,Vancouver Whitecaps,1342676
+P00750,Joel Salas,21,Costa Rican,Costa Rica,Forward,176,71,Right,Forge FC,2600472
+P00740,Ronald Haxiel,26,Costa Rican,Costa Rica,Defender,180,72,Right,Inter Miami,5836484
+P00736,Francisco Wallace,27,Costa Rican,Costa Rica,Defender,180,75,Left,New York Red Bulls,7606996
+P00751,Bryan Vargas,28,Costa Rican,Costa Rica,Forward,176,72,Right,Tauro FC,47679136
+P00749,Keylor Aguilar,25,Costa Rican,Costa Rica,Forward,178,73,Right,Alajuelense,42669527
+P00753,Francisco Borges,25,Costa Rican,Costa Rica,Forward,187,80,Right,Cruz Azul,15706272
+P00732,Keylor Calvo,27,Costa Rican,Costa Rica,Defender,190,79,Right,Cavalry FC,3545812
+P00752,Celso Campbell,27,Costa Rican,Costa Rica,Forward,182,67,Right,Inter Miami,60055692
+P00733,Joel Oviedo,34,Costa Rican,Costa Rica,Defender,186,81,Right,Forge FC,8329722
+P00748,Oscar Campbell,29,Costa Rican,Costa Rica,Midfielder,185,78,Right,Plaza Amador,5363327
+P00747,Patrick Vargas,20,Costa Rican,Costa Rica,Midfielder,183,70,Right,Tigres UANL,57646980
+P00744,Celso Zuniga,33,Costa Rican,Costa Rica,Midfielder,176,71,Right,New York Red Bulls,6573781
+P00734,Bryan Matarrita,31,Costa Rican,Costa Rica,Defender,185,80,Left,LAFC,5466016
+P00754,Randal Duarte,23,Costa Rican,Costa Rica,Forward,174,72,Right,CF Montreal,94057245
+P00735,Celso Tejeda,23,Costa Rican,Costa Rica,Defender,180,76,Right,Guadalajara,14084725
+P00745,Francisco Aguilar,26,Costa Rican,Costa Rica,Midfielder,173,75,Right,Forge FC,17981105
+P00742,Joel Soto,26,Costa Rican,Costa Rica,Midfielder,179,71,Left,Monterrey,12920911
+P00743,Bryan Leiton,27,Costa Rican,Costa Rica,Midfielder,174,75,Right,Vancouver Whitecaps,113249866
+P00738,Patrick Alvarado,30,Costa Rican,Costa Rica,Defender,179,74,Right,Forge FC,3442029
+P00741,Keylor Watson,23,Costa Rican,Costa Rica,Midfielder,177,76,Right,Monterrey,3732992
+P00737,Randal Brenes,23,Costa Rican,Costa Rica,Defender,188,78,Left,Tauro FC,2663776
+P00730,Joel Borges,25,Costa Rican,Costa Rica,Goalkeeper,192,72,Right,Atlanta United,24626941
+P00731,Bryan Duarte,28,Costa Rican,Costa Rica,Goalkeeper,186,76,Right,Toronto FC,29692746
+P00185,Bernardo Felix,27,Portuguese,Portugal,Goalkeeper,190,80,Right,Napoli,2503679
+P00202,Ruben Fernandes,35,Portuguese,Portugal,Midfielder,169,69,Right,Borussia Dortmund,3128482
+P00191,Joao Neves,28,Portuguese,Portugal,Defender,178,74,Right,RB Leipzig,8993563
+P00190,Diogo Semedo,23,Portuguese,Portugal,Defender,173,70,Right,Benfica,2064213
+P00200,Joao Taremi,21,Portuguese,Portugal,Midfielder,175,71,Left,RB Salzburg,7821685
+P00203,Cristiano Eustaquio,23,Portuguese,Portugal,Forward,170,71,Left,Brondby,65380655
+P00189,Rafael Guedes,30,Portuguese,Portugal,Defender,177,77,Right,Tottenham,5777023
+P00201,Pedro Pepe,26,Portuguese,Portugal,Midfielder,175,80,Right,Brondby,2692654
+P00187,Bruno Cancelo,25,Portuguese,Portugal,Defender,185,75,Right,Partizan,10191506
+P00197,Bernardo Conceicao,21,Portuguese,Portugal,Midfielder,179,76,Right,Lech Poznan,6091234
+P00196,Bruno Vitinha,18,Portuguese,Portugal,Midfielder,180,80,Right,Paris Saint-Germain,7359408
+P00194,Pepe Carvalho,30,Portuguese,Portugal,Defender,185,78,Right,Ajax,58151286
+P00193,Ruben Inacio,18,Portuguese,Portugal,Defender,181,80,Right,Malmo FF,14118323
+P00205,Bernardo Pepe,27,Portuguese,Portugal,Forward,175,68,Right,Rapid Vienna,66267245
+P00208,Joao Felix,25,Portuguese,Portugal,Forward,175,67,Right,Midtjylland,36508991
+P00204,Bruno Taremi,23,Portuguese,Portugal,Forward,190,84,Right,Club Brugge,4881717
+P00192,Pedro Neto,25,Portuguese,Portugal,Defender,183,73,Right,Red Star Belgrade,5576206
+P00188,Bernardo Santos,31,Portuguese,Portugal,Defender,186,80,Right,Liverpool,16487542
+P00198,Rafael Antonio,25,Portuguese,Portugal,Midfielder,182,77,Right,Chelsea,12812523
+P00195,Cristiano Palhinha,24,Portuguese,Portugal,Midfielder,176,75,Right,Dinamo Zagreb,48500492
+P00206,Rafael Fernandes,19,Portuguese,Portugal,Forward,188,74,Right,Chelsea,3256459
+P00186,Cristiano Jota,29,Portuguese,Portugal,Defender,188,73,Right,Bayern Munich,4808302
+P00199,Diogo Eustaquio,26,Portuguese,Portugal,Midfielder,179,73,Right,Lech Poznan,3589408
+P00207,Diogo Leao,26,Portuguese,Portugal,Forward,169,71,Right,Atletico Madrid,27306813
+P00184,Bruno Leao,27,Portuguese,Portugal,Goalkeeper,187,78,Right,Benfica,2960076
+P00183,Cristiano Fernandes,33,Portuguese,Portugal,Goalkeeper,185,79,Left,Real Madrid,1771637
+P00575,Federico Bentancur,21,Uruguayan,Uruguay,Goalkeeper,187,75,Right,Independiente,33206789
+P00595,Federico Trezeguet,30,Uruguayan,Uruguay,Forward,184,73,Left,Colo-Colo,75346848
+P00587,Federico Caceres,25,Uruguayan,Uruguay,Midfielder,181,80,Right,Sao Paulo,22501778
+P00578,Federico Coates,30,Uruguayan,Uruguay,Defender,184,81,Right,Nacional,3648979
+P00589,Ronald Varela,27,Uruguayan,Uruguay,Midfielder,181,74,Left,Universidad de Chile,8457298
+P00594,Edinson Torres,26,Uruguayan,Uruguay,Forward,175,72,Left,Boca Juniors,25442767
+P00585,Luis Pellistri,34,Uruguayan,Uruguay,Midfielder,179,77,Left,Palmeiras,10100657
+P00598,Sebastian Bentancur,28,Uruguayan,Uruguay,Forward,184,80,Right,LDU Quito,11876887
+P00576,Luis Araujo,30,Uruguayan,Uruguay,Defender,179,75,Left,Sao Paulo,10022711
+P00590,Sebastian Torres,25,Uruguayan,Uruguay,Midfielder,181,74,Right,Racing Club,36510320
+P00579,Jose Torreira,23,Uruguayan,Uruguay,Defender,178,73,Left,Emelec,9808239
+P00593,Luis Varela,22,Uruguayan,Uruguay,Forward,174,71,Right,Universidad de Chile,5498972
+P00592,Diego Cavani,23,Uruguayan,Uruguay,Midfielder,181,77,Right,LDU Quito,5367277
+P00584,Nahitan Canobbio,28,Uruguayan,Uruguay,Defender,179,74,Right,Millonarios,11081077
+P00591,Rodrigo Trezeguet,26,Uruguayan,Uruguay,Midfielder,175,82,Left,Boca Juniors,3167699
+P00596,Jose Cavani,25,Uruguayan,Uruguay,Forward,189,78,Right,Millonarios,84522695
+P00577,Edinson Nandez,23,Uruguayan,Uruguay,Defender,182,78,Right,LDU Quito,15651016
+P00583,Diego Vina,34,Uruguayan,Uruguay,Defender,187,79,Left,Atletico Nacional,13255088
+P00582,Rodrigo Olivera,25,Uruguayan,Uruguay,Defender,187,75,Right,Gremio,7619101
+P00586,Edinson Ugarte,26,Uruguayan,Uruguay,Midfielder,182,71,Left,Emelec,2490643
+P00581,Sebastian Nunez,29,Uruguayan,Uruguay,Defender,188,78,Right,Penarol,4083598
+P00588,Jose Rodriguez,31,Uruguayan,Uruguay,Midfielder,182,74,Right,Penarol,7381820
+P00580,Ronald De Arrascaeta,35,Uruguayan,Uruguay,Defender,190,85,Right,Boca Juniors,6510779
+P00597,Ronald Gimenez,21,Uruguayan,Uruguay,Forward,189,74,Right,Nacional,8534035
+P00573,Luis Cavani,26,Uruguayan,Uruguay,Goalkeeper,185,76,Right,Nacional,4291634
+P00574,Edinson Gimenez,32,Uruguayan,Uruguay,Goalkeeper,185,81,Right,Nacional,3508464
+P00677,Santiago Lozano,33,Mexican,Mexico,Goalkeeper,188,78,Right,Guadalajara,22568726
+P00697,Santiago Reyes,29,Mexican,Mexico,Forward,174,69,Left,LAFC,6087411
+P00681,Hirving Ochoa,26,Mexican,Mexico,Defender,191,83,Right,Tauro FC,3182100
+P00687,Jorge Cordova,32,Mexican,Mexico,Defender,183,71,Left,LA Galaxy,6248417
+P00685,Diego Vega,28,Mexican,Mexico,Defender,182,76,Right,New York Red Bulls,3715579
+P00684,Jesus Gutierrez,30,Mexican,Mexico,Defender,184,76,Right,Atlanta United,12149504
+P00690,Hirving Pineda,22,Mexican,Mexico,Midfielder,186,77,Right,Monterrey,3207696
+P00686,Guillermo Almada,32,Mexican,Mexico,Defender,180,74,Right,Monterrey,6817252
+P00701,Jesus Alvarez,26,Mexican,Mexico,Forward,173,65,Right,Cavalry FC,17213940
+P00695,Guillermo Torres,32,Mexican,Mexico,Midfielder,174,72,Right,LAFC,28271942
+P00693,Jesus Reyes,26,Mexican,Mexico,Midfielder,186,78,Right,Forge FC,170783688
+P00699,Raul Torres,21,Mexican,Mexico,Forward,181,77,Left,Vancouver Whitecaps,47575310
+P00700,Edson Lozano,30,Mexican,Mexico,Forward,172,69,Left,LAFC,30220581
+P00691,Raul Antuna,22,Mexican,Mexico,Midfielder,172,66,Right,Cavalry FC,11132195
+P00696,Jorge Lozano,23,Mexican,Mexico,Midfielder,173,75,Right,Guadalajara,119311209
+P00698,Hirving Romo,21,Mexican,Mexico,Forward,173,77,Left,Saprissa,7115418
+P00683,Edson Layun,23,Mexican,Mexico,Defender,178,73,Left,Club America,9169500
+P00689,Santiago Araujo,26,Mexican,Mexico,Midfielder,176,76,Right,Tigres UANL,5971308
+P00694,Diego Romo,30,Mexican,Mexico,Midfielder,183,74,Right,Club America,16604407
+P00702,Diego Lainez,33,Mexican,Mexico,Forward,179,75,Right,LAFC,3164074
+P00680,Santiago Corona,26,Mexican,Mexico,Defender,188,73,Right,Club America,14956437
+P00688,Hector Vasquez,23,Mexican,Mexico,Defender,187,77,Right,Tauro FC,25352417
+P00682,Raul Herrera,29,Mexican,Mexico,Defender,192,79,Right,Vancouver Whitecaps,21706061
+P00692,Edson Martinez,19,Mexican,Mexico,Midfielder,172,71,Right,Tauro FC,1844804
+P00679,Raul Lainez,27,Mexican,Mexico,Goalkeeper,191,87,Right,Plaza Amador,34952894
+P00678,Hirving Alvarez,36,Mexican,Mexico,Goalkeeper,188,79,Right,Forge FC,1550442
+P00288,Aleksandar Savic,32,Serbian,Serbia,Goalkeeper,187,84,Right,Red Star Belgrade,15367273
+P00296,Lazar Ilic,26,Serbian,Serbia,Defender,187,79,Right,RB Salzburg,8239354
+P00308,Aleksandar Terzic,23,Serbian,Serbia,Forward,177,69,Right,Marseille,4010133
+P00309,Filip Grujic,27,Serbian,Serbia,Forward,185,74,Right,Marseille,19323119
+P00301,Filip Maksimovic,21,Serbian,Serbia,Midfielder,179,76,Right,Dinamo Zagreb,2921182
+P00290,Dusan Gudelj,22,Serbian,Serbia,Defender,183,73,Right,Ajax,2373393
+P00310,Sergej Mitrovic,26,Serbian,Serbia,Forward,181,70,Right,Tottenham,8713600
+P00311,Nemanja Savic,26,Serbian,Serbia,Forward,178,70,Right,Bayern Munich,8704056
+P00295,Dusan Zivkovic,28,Serbian,Serbia,Defender,185,76,Right,Lech Poznan,24464325
+P00304,Dusan Terzic,27,Serbian,Serbia,Midfielder,183,82,Right,Partizan,3444232
+P00294,Nemanja Lazovic,20,Serbian,Serbia,Defender,187,78,Right,Fenerbahce,14474979
+P00300,Aleksandar Lukic,30,Serbian,Serbia,Midfielder,174,78,Right,Liverpool,8806216
+P00293,Sergej Milenkovic,26,Serbian,Serbia,Defender,185,70,Right,Brondby,1858290
+P00307,Dusan Jevtovic,27,Serbian,Serbia,Forward,172,71,Right,AC Milan,22323905
+P00297,Strahinja Ristic,26,Serbian,Serbia,Defender,181,80,Left,Galatasaray,2805605
+P00312,Dusan Milinkovic-Savic,19,Serbian,Serbia,Forward,170,72,Right,Chelsea,2164693
+P00305,Lazar Grujic,31,Serbian,Serbia,Midfielder,177,75,Left,Feyenoord,5695058
+P00291,Aleksandar Kostic,33,Serbian,Serbia,Defender,187,78,Right,PSV Eindhoven,1795550
+P00298,Andrija Gudelj,30,Serbian,Serbia,Defender,181,76,Right,Barcelona,2941465
+P00292,Filip Pavlovic,26,Serbian,Serbia,Defender,175,76,Right,Arsenal,3591411
+P00306,Strahinja Mitrovic,18,Serbian,Serbia,Midfielder,184,82,Right,RB Salzburg,22149912
+P00302,Sergej Jovic,21,Serbian,Serbia,Midfielder,179,75,Right,Real Madrid,36046905
+P00299,Dusan Radonjic,28,Serbian,Serbia,Midfielder,184,77,Right,Grasshoppers,3320547
+P00303,Nemanja Jevtovic,29,Serbian,Serbia,Midfielder,178,73,Right,Club Brugge,54495695
+P00287,Dusan Mitrovic,27,Serbian,Serbia,Goalkeeper,193,82,Left,Osijek,6169332
+P00289,Filip Milinkovic-Savic,30,Serbian,Serbia,Goalkeeper,192,82,Right,Arsenal,11500373
+P00651,Christian McKennie,28,American,United States,Goalkeeper,183,74,Right,CF Montreal,2815793
+P00656,Giovanni Musah,33,American,United States,Defender,183,73,Left,Tigres UANL,6736049
+P00654,Christian Robinson,32,American,United States,Defender,177,77,Left,Cruz Azul,1383177
+P00662,Yunus Robinson,26,American,United States,Defender,182,72,Left,Tigres UANL,3795812
+P00658,Antonee Carter-Vickers,23,American,United States,Defender,184,81,Right,New York Red Bulls,1768011
+P00668,Timothy Yedlin,23,American,United States,Midfielder,173,70,Right,Vancouver Whitecaps,10161004
+P00657,Tyler Balogan,22,American,United States,Defender,184,76,Right,Tigres UANL,24120847
+P00664,Weston Acosta,26,American,United States,Midfielder,176,79,Right,LAFC,8116418
+P00663,Christian Sargent,25,American,United States,Midfielder,180,73,Right,New York Red Bulls,24660881
+P00671,Christian Horvath,19,American,United States,Forward,182,76,Left,Cavalry FC,36990617
+P00667,Antonee Horvath,25,American,United States,Midfielder,177,70,Right,Monterrey,11543243
+P00660,Sergino Busio,23,American,United States,Defender,185,74,Left,Tigres UANL,2186215
+P00665,Giovanni Tillman,26,American,United States,Midfielder,181,77,Right,LA Galaxy,36664322
+P00659,Timothy Zimmerman,25,American,United States,Defender,188,77,Right,Toronto FC,14740971
+P00673,Giovanni Hoppe,25,American,United States,Forward,180,80,Right,Tauro FC,16660900
+P00674,Tyler McKennie,22,American,United States,Forward,178,68,Left,Alajuelense,13541079
+P00661,Brenden Pepi,30,American,United States,Defender,176,72,Right,CF Montreal,7133353
+P00666,Tyler Morris,28,American,United States,Midfielder,180,73,Right,Plaza Amador,8807034
+P00655,Weston Dest,29,American,United States,Defender,197,83,Left,Tauro FC,4815712
+P00669,Sergino Hoppe,27,American,United States,Midfielder,177,72,Right,Forge FC,9234179
+P00676,Timothy Weah,24,American,United States,Forward,174,72,Right,CF Montreal,106287395
+P00675,Antonee Adams,22,American,United States,Forward,169,74,Right,Vancouver Whitecaps,7035379
+P00670,Brenden McKennie,26,American,United States,Midfielder,175,78,Right,Forge FC,24731087
+P00672,Weston Yedlin,29,American,United States,Forward,179,77,Left,Alajuelense,40835492
+P00652,Weston Adams,29,American,United States,Goalkeeper,184,74,Right,Tigres UANL,11044417
+P00653,Giovanni Weah,33,American,United States,Goalkeeper,189,77,Right,LAFC,907348
+P01147,Ali Talbi,27,Tunisian,Tunisia,Goalkeeper,185,78,Right,Mamelodi Sundowns,8623499
+P01167,Ali Dhaou,18,Tunisian,Tunisia,Forward,168,75,Right,Orlando Pirates,31811790
+P01162,Hannibal Krid,33,Tunisian,Tunisia,Midfielder,179,81,Right,Al Ahly,3059652
+P01163,Aissa Dhaou,34,Tunisian,Tunisia,Midfielder,176,75,Right,Al-Masry,29244553
+P01164,Dylan Msakni,28,Tunisian,Tunisia,Midfielder,177,68,Right,ES Tunis,4640198
+P01166,Youssef Krid,23,Tunisian,Tunisia,Forward,180,77,Right,JS Kabylie,25493014
+P01169,Nader Skhiri,22,Tunisian,Tunisia,Forward,170,71,Right,Al-Masry,7982980
+P01155,Dylan Hamdi,24,Tunisian,Tunisia,Defender,176,75,Left,Gor Mahia,2891939
+P01157,Wahbi Dragger,27,Tunisian,Tunisia,Midfielder,179,77,Right,JS Kabylie,6746412
+P01170,Hannibal Talbi,27,Tunisian,Tunisia,Forward,182,76,Right,Zamalek,2027069
+P01161,Nader Chalali,34,Tunisian,Tunisia,Midfielder,183,75,Right,JS Kabylie,9290045
+P01168,Ellyes Msakni,26,Tunisian,Tunisia,Forward,182,77,Right,Al-Hilal Omdurman,11550076
+P01151,Ellyes Sliti,28,Tunisian,Tunisia,Defender,188,84,Right,Al-Hilal Omdurman,4037240
+P01159,Ali Melki,21,Tunisian,Tunisia,Midfielder,186,80,Left,Club Africain,3352021
+P01165,Wahbi Chalali,24,Tunisian,Tunisia,Forward,185,74,Right,Gor Mahia,11958617
+P01149,Youssef Laidouni,31,Tunisian,Tunisia,Defender,184,75,Right,Zamalek,14182544
+P01148,Wahbi Bronn,30,Tunisian,Tunisia,Defender,175,75,Left,Mamelodi Sundowns,26691238
+P01160,Ellyes Msaad,28,Tunisian,Tunisia,Midfielder,178,75,Right,Al-Masry,9310776
+P01153,Hannibal Mathlouthi,27,Tunisian,Tunisia,Defender,181,79,Left,ES Tunis,2838158
+P01152,Nader Haddadi,21,Tunisian,Tunisia,Defender,181,77,Right,Al-Hilal Omdurman,18357445
+P01150,Ali Dhaouadi,28,Tunisian,Tunisia,Defender,185,84,Left,Al Ahly,1023583
+P01158,Youssef Dahmen,19,Tunisian,Tunisia,Midfielder,182,76,Right,Mamelodi Sundowns,3371400
+P01154,Aissa Bennacer,26,Tunisian,Tunisia,Defender,186,79,Left,TP Mazembe,3768485
+P01156,Montassar Sassi,30,Tunisian,Tunisia,Defender,185,80,Right,MC Alger,14114967
+P01146,Youssef Skhiri,32,Tunisian,Tunisia,Goalkeeper,187,81,Right,MC Alger,79966073
+P01145,Wahbi Msakni,24,Tunisian,Tunisia,Goalkeeper,190,81,Left,ES Tunis,8080673
+P00315,Marko Baumgartlinger,31,Austrian,Austria,Goalkeeper,187,75,Right,Club Brugge,3398957
+P00316,David Laimer,25,Austrian,Austria,Defender,177,74,Right,Napoli,3011509
+P00321,Maximilian Seiwald,35,Austrian,Austria,Defender,178,78,Right,Bayer Leverkusen,14524344
+P00331,Florian Kick,33,Austrian,Austria,Midfielder,185,78,Right,Sporting CP,11730967
+P00333,David Muhl,18,Austrian,Austria,Forward,178,75,Right,Arsenal,11207976
+P00327,Marko Borrmann,18,Austrian,Austria,Midfielder,180,75,Left,Juventus,3323085
+P00318,Marko Gregoritsch,27,Austrian,Austria,Defender,182,74,Left,Napoli,11777939
+P00337,Stefan Lainer,26,Austrian,Austria,Forward,175,70,Right,Malmo FF,61390857
+P00329,Stefan Muhl,25,Austrian,Austria,Midfielder,182,75,Right,Real Madrid,6862820
+P00334,Marcel Bavoli,28,Austrian,Austria,Forward,184,79,Right,RB Leipzig,19983488
+P00332,Xaver Sabitzer,21,Austrian,Austria,Midfielder,173,69,Left,RB Leipzig,16312197
+P00336,Konrad Sabitzer,26,Austrian,Austria,Forward,185,72,Left,Red Star Belgrade,3310909
+P00330,Maximilian Bavoli,24,Austrian,Austria,Midfielder,172,70,Right,Young Boys,20082412
+P00322,Florian Waldschmidt,22,Austrian,Austria,Defender,180,72,Right,Besiktas,19613882
+P00317,Marcel Kalajdzic,33,Austrian,Austria,Defender,191,78,Right,Liverpool,10509185
+P00325,David Ulmer,30,Austrian,Austria,Midfielder,171,72,Right,Rapid Vienna,86025691
+P00338,Maximilian Baumgartlinger,26,Austrian,Austria,Forward,180,73,Left,Arsenal,5122912
+P00319,Konrad Posch,27,Austrian,Austria,Defender,182,70,Right,Liverpool,11537444
+P00328,Konrad Bardi,27,Austrian,Austria,Midfielder,175,70,Left,Atletico Madrid,20618666
+P00335,Marko Kick,29,Austrian,Austria,Forward,173,70,Right,Napoli,77319536
+P00323,Xaver Kofler,34,Austrian,Austria,Defender,182,79,Right,Ajax,6937019
+P00324,Philipp Friedl,24,Austrian,Austria,Defender,188,81,Right,Borussia Dortmund,15509447
+P00320,Stefan Hinteregger,24,Austrian,Austria,Defender,190,73,Right,Manchester United,57614882
+P00326,Marcel Dembir,22,Austrian,Austria,Midfielder,183,78,Right,Chelsea,5930635
+P00313,David Sabitzer,31,Austrian,Austria,Goalkeeper,192,75,Right,Ajax,7623596
+P00314,Marcel Lainer,21,Austrian,Austria,Goalkeeper,192,77,Right,Besiktas,11270723
